@@ -6,7 +6,7 @@
         "startX": 13,
         "startY": 7,
         "startDirection": "right",
-        "zoom": 200,
+        "zoom": 100,
         "startSceneId": "4912bee2-387a-472f-ae4f-6679b6149517",
         "playerSpriteSheetId": "e1fcf3d0-b10e-4b92-90c5-eaff9868cafe"
     },
@@ -145,6 +145,34 @@
         {
             "id": "119",
             "name": "talking to mom lastest"
+        },
+        {
+            "id": "120",
+            "name": "talking to chacy"
+        },
+        {
+            "id": "121",
+            "name": "don't talk to chacy"
+        },
+        {
+            "id": "122",
+            "name": "also dont talk to chad"
+        },
+        {
+            "id": "123",
+            "name": "talking to charissa 1"
+        },
+        {
+            "id": "124",
+            "name": "talking to charissa 2"
+        },
+        {
+            "id": "125",
+            "name": "talking to charlie"
+        },
+        {
+            "id": "126",
+            "name": "talking to charlie 2"
         }
     ],
     "backgrounds": [
@@ -2893,7 +2921,94 @@
                     "movementType": "randomWalk",
                     "direction": "down",
                     "moveSpeed": "1",
-                    "animSpeed": "3"
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "f8483fa4-fa04-4af5-8e4f-5762fd67179a",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "121"
+                            },
+                            "true": [
+                                {
+                                    "id": "4f3dcad4-3102-489f-b568-478859d8900d",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "An i oOP\nSkskskSKSKKskskSKK\nkksKSKSkkSKKSKSK"
+                                    }
+                                },
+                                {
+                                    "id": "5dbc75f3-6383-4dc7-bafe-0e3dfab18962",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "e5c49a9d-e6ba-4e4e-847f-cedfc1205765",
+                                    "command": "EVENT_IF_TRUE",
+                                    "args": {
+                                        "variable": "120",
+                                        "__collapse": true,
+                                        "__collapseElse": true
+                                    },
+                                    "true": [
+                                        {
+                                            "id": "2d4d7d7e-6bee-43c3-8586-478f23237b5e",
+                                            "command": "EVENT_TEXT",
+                                            "args": {
+                                                "text": [
+                                                    "HAVE YOU MET MY\nHUSBAND CHAD\nTHUNDER??????",
+                                                    "HE WORKS IN A\nLIBRARY HE'S SOO\nSMART ZNKDAKLNBK"
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": "69d87ec5-3f31-4249-9ee4-b227f8994884",
+                                            "command": "EVENT_SET_TRUE",
+                                            "args": {
+                                                "variable": "121"
+                                            }
+                                        },
+                                        {
+                                            "id": "5822439d-66d1-4ae3-bd40-5f6786b6a71b",
+                                            "command": "EVENT_END"
+                                        }
+                                    ],
+                                    "false": [
+                                        {
+                                            "id": "3c4f2fe3-12e8-4913-b755-2d739076de44",
+                                            "command": "EVENT_SET_TRUE",
+                                            "args": {
+                                                "variable": "120"
+                                            }
+                                        },
+                                        {
+                                            "id": "fa8ec7be-88f9-4ca6-ad50-49b8d349c361",
+                                            "command": "EVENT_TEXT",
+                                            "args": {
+                                                "text": [
+                                                    "HEEEEEEEEEEYYYYYYY",
+                                                    "I'M CHACYYY, IT'S\nPRONOUNCED STACYYY\nSKSKKSKSKSK"
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": "64985613-bbcf-4ba5-af35-6eddc67c0cfd",
+                                            "command": "EVENT_END"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "3d49c4c3-7668-40d2-807d-b42e8210b71e",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "048405bd-e093-43b3-b410-de198a5d71fc",
+                            "command": "EVENT_END"
+                        }
+                    ]
                 },
                 {
                     "id": "415ab8f5-8651-4c2d-93ce-2def8951bbd5",
@@ -3375,7 +3490,98 @@
                     "movementType": "randomWalk",
                     "direction": "down",
                     "moveSpeed": "2",
-                    "animSpeed": "3"
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "5a8bede5-53b0-488a-859c-8b85775254d1",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "126"
+                            },
+                            "true": [
+                                {
+                                    "id": "d6cea39a-6bb2-4130-878a-61d309e48fe6",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "Hey, I hope I\ndon't creep you\nout..",
+                                            "But.. your eyes\nare like stars..\nhaha..."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "380307cf-1f07-4309-ba96-864b334979ef",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "39802d8e-9eeb-406f-b9ac-20a99034612c",
+                                    "command": "EVENT_IF_TRUE",
+                                    "args": {
+                                        "variable": "125",
+                                        "__collapse": true,
+                                        "__collapseElse": true
+                                    },
+                                    "true": [
+                                        {
+                                            "id": "752504f2-cb0b-48a9-a251-4c0fb1f6c513",
+                                            "command": "EVENT_TEXT",
+                                            "args": {
+                                                "text": [
+                                                    "I love my parents!",
+                                                    "But during long\nconversations,\nboth will start ",
+                                                    "...to foam at the\nmouth. It's a hell\nof a sight."
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": "0c0004c8-9704-4634-bec6-9676baa992eb",
+                                            "command": "EVENT_SET_TRUE",
+                                            "args": {
+                                                "variable": "126"
+                                            }
+                                        },
+                                        {
+                                            "id": "8d803b9d-1778-425c-83d1-245e33fac658",
+                                            "command": "EVENT_END"
+                                        }
+                                    ],
+                                    "false": [
+                                        {
+                                            "id": "42af3083-572e-49b4-9cd9-5e3e26869248",
+                                            "command": "EVENT_TEXT",
+                                            "args": {
+                                                "text": [
+                                                    "Hello! You must be\nStar!",
+                                                    "I was looking\nfoward to meeting\nyou! I'm Charlie"
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": "1456b1d1-9e74-4d64-918f-e79f3956b80c",
+                                            "command": "EVENT_SET_TRUE",
+                                            "args": {
+                                                "variable": "125"
+                                            }
+                                        },
+                                        {
+                                            "id": "82251638-286c-4eab-9310-01c4161afa52",
+                                            "command": "EVENT_END"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "28909d9e-1ce0-485d-bc04-28f17a3367d7",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "048405bd-e093-43b3-b410-de198a5d71fc",
+                            "command": "EVENT_END"
+                        }
+                    ]
                 },
                 {
                     "id": "5dca631c-873e-409d-9dfc-3dbe98fa0abf",
@@ -5775,7 +5981,63 @@
                     "movementType": "faceInteraction",
                     "direction": "down",
                     "moveSpeed": "1",
-                    "animSpeed": "3"
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "0e25b75d-b33f-4c88-9d0c-18d7103c89ea",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "122"
+                            },
+                            "true": [
+                                {
+                                    "id": "db989f12-2fc5-48cc-9c74-55a340b94bdc",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "SKSKKSKSKSKKSKKSKS",
+                                            "TALK TO MY KIDS\nPLEASE OMG",
+                                            "SKSSKSKKSKSKKSKSKS"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "54c45b80-f659-4a07-bb44-14cbf0813e15",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "a328688e-c1a7-4282-83a3-8394ba3f0029",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "HEEEEYYYYYYY I'M\nCHAD",
+                                            "HAVE YOU MET MY\nCHILDREN??????",
+                                            "CHARISSA AND\nCHARLIE ARE SOOO\nCUTE OMG",
+                                            "THEY'RE ABOUT YOUR\nAGE!! OMG TEA",
+                                            "SKSKKSKKSKSKKSKSKS\nSKSKKSKSKSKSKKSKSK"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "8d513e2f-f1a3-4fd5-903e-3ea238e95efa",
+                                    "command": "EVENT_SET_TRUE",
+                                    "args": {
+                                        "variable": "122"
+                                    }
+                                },
+                                {
+                                    "id": "49731df2-998f-4017-8503-bb1a11cfeee4",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "048405bd-e093-43b3-b410-de198a5d71fc",
+                            "command": "EVENT_END"
+                        }
+                    ]
                 },
                 {
                     "id": "5e0c6e97-4512-43c4-b28b-403193b2bb4b",
@@ -6721,8 +6983,8 @@
             "id": "bb7bfeb4-c9ee-4abe-a559-dbf52b196e75",
             "name": "3b chaddy's house",
             "backgroundId": "12068f32-a1a0-4873-ae43-a12ca1602c4d",
-            "x": 399.46144945657784,
-            "y": 708.0997315821152,
+            "x": 392.46144945657784,
+            "y": 699.0997315821152,
             "width": 20,
             "height": 18,
             "actors": [
@@ -6734,7 +6996,97 @@
                     "movementType": "randomWalk",
                     "direction": "down",
                     "moveSpeed": "1",
-                    "animSpeed": "3"
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "b282229c-253d-4526-a4b5-03a4c0fb3daa",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "124",
+                                "__collapse": true
+                            },
+                            "true": [
+                                {
+                                    "id": "6e71f834-a7e8-45a6-a155-3fcd7fc141c1",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "You're really fun\nto talk to..."
+                                    }
+                                },
+                                {
+                                    "id": "502eb521-cab6-4b72-9a23-243204290194",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "8a1ac2a7-db60-48d1-886c-f3a1cc37dcf4",
+                                    "command": "EVENT_IF_TRUE",
+                                    "args": {
+                                        "variable": "123",
+                                        "__collapse": true,
+                                        "__collapseElse": true
+                                    },
+                                    "true": [
+                                        {
+                                            "id": "4acff647-3ce8-45f6-86cf-5505b5b51163",
+                                            "command": "EVENT_TEXT",
+                                            "args": {
+                                                "text": [
+                                                    "My dad is obsessed\nwith generic\nmottos.",
+                                                    "My mom is a couch\ncollector.",
+                                                    "I think she's\nplanning on taking\nout the kitchen",
+                                                    "to fit more\ncouches."
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": "00da876c-7328-4267-8165-a77b131efc28",
+                                            "command": "EVENT_SET_TRUE",
+                                            "args": {
+                                                "variable": "124"
+                                            }
+                                        },
+                                        {
+                                            "id": "bb7746ae-dcfc-4357-a562-516f9686ff09",
+                                            "command": "EVENT_END"
+                                        }
+                                    ],
+                                    "false": [
+                                        {
+                                            "id": "a8f28e1c-37a1-4058-a48f-d62b084503f6",
+                                            "command": "EVENT_TEXT",
+                                            "args": {
+                                                "text": [
+                                                    "Hello, you must be\nStar!",
+                                                    "I'm Charissa, It's\nnice to meet you."
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": "96e5a484-f376-411b-bab1-ed21fdd680ba",
+                                            "command": "EVENT_SET_TRUE",
+                                            "args": {
+                                                "variable": "123"
+                                            }
+                                        },
+                                        {
+                                            "id": "96a246f6-f5c6-468d-8d13-89ca6b5250e5",
+                                            "command": "EVENT_END"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "220bfa90-6575-415e-a6b4-99bf9b478a00",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "048405bd-e093-43b3-b410-de198a5d71fc",
+                            "command": "EVENT_END"
+                        }
+                    ]
                 }
             ],
             "triggers": [
