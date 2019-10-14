@@ -6,7 +6,7 @@
         "startX": 13,
         "startY": 7,
         "startDirection": "right",
-        "zoom": 100,
+        "zoom": 50,
         "startSceneId": "4912bee2-387a-472f-ae4f-6679b6149517",
         "playerSpriteSheetId": "e1fcf3d0-b10e-4b92-90c5-eaff9868cafe"
     },
@@ -173,6 +173,10 @@
         {
             "id": "126",
             "name": "talking to charlie 2"
+        },
+        {
+            "id": "127",
+            "name": "i messed up with mom"
         }
     ],
     "backgrounds": [
@@ -184,7 +188,7 @@
             "imageWidth": 256,
             "imageHeight": 224,
             "filename": "abandonedlab.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "440e52a6-b630-44a2-9689-be3af1385716",
@@ -194,7 +198,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "animal tings.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "12068f32-a1a0-4873-ae43-a12ca1602c4d",
@@ -204,7 +208,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "chaddy's house int.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "45e33d95-3237-4a82-8c9d-880d813895b3",
@@ -214,7 +218,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "cut screen.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "0a4e7bc8-6dbb-44d5-b14c-bc9ee7410397",
@@ -224,7 +228,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "farm animals.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "7cb8f0dc-71ee-493d-b53a-3ac9342c5661",
@@ -234,7 +238,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "farm wheat.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "60570f7d-7a70-4153-8298-2351082a163b",
@@ -244,7 +248,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "George's house.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "a4009aab-aa88-450a-8027-99e17486959a",
@@ -254,7 +258,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "George's.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "00586e68-6bb6-4b8a-888b-f9eca361a12c",
@@ -264,7 +268,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "georgies bedroom.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "e0fed7f1-f7e9-4287-b074-e42f573df239",
@@ -274,7 +278,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "hallway.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "88c03a2d-45a2-490a-be7b-44c58574c2b3",
@@ -284,7 +288,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "harmony park.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "52d665b7-b578-4077-bb58-ff20a9c4aa9c",
@@ -294,7 +298,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "harmony town 1.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "70b51a2f-8caa-42c9-8965-0780878989be",
@@ -304,7 +308,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "harmony town 2.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "80817343-4a6d-4217-836d-7c0e8fb0f0b8",
@@ -314,7 +318,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "housekitchen.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "0322e091-1267-4355-a257-479b3e1567f8",
@@ -324,7 +328,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "instructions copy.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "c5e63dc1-d0ae-41ba-a2f9-27bd89a151da",
@@ -334,7 +338,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "library int..png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "8e08d3b3-5851-413c-9e35-47eedf415fa5",
@@ -344,7 +348,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Marcy's int.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "ab7c2bb3-9868-4456-a061-be3f31ec02f0",
@@ -354,7 +358,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "marionette's house.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "68d64b78-2103-44de-9d3e-ec20f055750c",
@@ -364,7 +368,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "mother's room.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "d103c148-775e-439f-95d0-9c7f5d25bf6e",
@@ -374,7 +378,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "open folder.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "24f73b33-4d4f-4308-ae8e-f9162bd88318",
@@ -384,7 +388,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "Robin's Street.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "949a7d1e-4365-4764-8284-ada57333d27d",
@@ -394,7 +398,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "room.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "30d273a4-1773-489a-88d1-7fd8e6d8c1bf",
@@ -404,7 +408,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "rope running.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "0718d019-8572-4bf1-9c14-430c32b84080",
@@ -414,7 +418,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "sister's room.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "311ce60f-d05f-48fd-ba69-bc6cf1334919",
@@ -424,7 +428,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "sol bot copy.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "50a8769e-421a-4463-a8ad-de672111ed14",
@@ -434,7 +438,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "Sol top fitted.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "a8843ca2-9b6b-4304-8a86-37a96d2adffa",
@@ -444,7 +448,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "Spring's street.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "6008e4ef-1f56-456c-928a-422b04b98e4e",
@@ -454,7 +458,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "the way to armstrong's.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "ddb77308-6dd1-4292-9208-9311dc581021",
@@ -464,7 +468,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Title Screen.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         },
         {
             "id": "a3636bd7-927c-4db9-b1f5-9b260fa4dc01",
@@ -474,7 +478,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "yaya.png",
-            "_v": 1571033084392
+            "_v": 1571041682826
         }
     ],
     "spriteSheets": [
@@ -484,7 +488,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "1 trigger.png",
-            "_v": 1571033084397
+            "_v": 1571041682830
         },
         {
             "id": "a2562e59-c5cd-44e4-9a11-b82b9d9c8a55",
@@ -492,7 +496,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "chacy.png",
-            "_v": 1571033084397
+            "_v": 1571041682830
         },
         {
             "id": "87fbb955-a4f4-4f8a-bf2f-5a48b67cdb2c",
@@ -500,7 +504,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "chaddy.png",
-            "_v": 1571033084397
+            "_v": 1571041682830
         },
         {
             "id": "d6b0758b-701a-4d5b-83b8-d15551d5e0dd",
@@ -508,7 +512,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "charissa.png",
-            "_v": 1571033084397
+            "_v": 1571041682830
         },
         {
             "id": "537dcdff-4af5-45dd-8ade-fbb8437e1a33",
@@ -516,7 +520,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "charlie.png",
-            "_v": 1571033084397
+            "_v": 1571041682831
         },
         {
             "id": "5a240db3-a063-4aba-8fc7-459db5212fe4",
@@ -524,7 +528,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "chickens.png",
-            "_v": 1571033084397
+            "_v": 1571041682831
         },
         {
             "id": "7facdaeb-cdec-44bc-8fc3-8ff76e5f3402",
@@ -532,7 +536,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "clicker.png",
-            "_v": 1571033084397
+            "_v": 1571041682831
         },
         {
             "id": "ede130e6-013a-42d1-a786-1aed3fd3cf32",
@@ -540,7 +544,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "duck.png",
-            "_v": 1571033084397
+            "_v": 1571041682831
         },
         {
             "id": "4f79d206-aa11-445a-99e6-3d2ad024be2f",
@@ -548,7 +552,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "folder.png",
-            "_v": 1571033084397
+            "_v": 1571041682831
         },
         {
             "id": "28878e6b-390f-435e-a413-9f9a54789042",
@@ -556,7 +560,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "george.png",
-            "_v": 1571033084397
+            "_v": 1571041682831
         },
         {
             "id": "5c77cb32-8990-4ad9-be74-d013d3693b0b",
@@ -564,7 +568,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "george's son.png",
-            "_v": 1571033084397
+            "_v": 1571041682831
         },
         {
             "id": "e3c4edff-5166-4f7d-bb30-24f16e553dd5",
@@ -572,7 +576,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "jerry.png",
-            "_v": 1571033084397
+            "_v": 1571041682831
         },
         {
             "id": "f8984ee4-e3bf-42fc-a759-c90e31535051",
@@ -580,7 +584,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "loony dave.png",
-            "_v": 1571033084397
+            "_v": 1571041682831
         },
         {
             "id": "050601bb-6a55-42d2-8418-338db90a20ca",
@@ -588,7 +592,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "marionette.png",
-            "_v": 1571033084397
+            "_v": 1571041682831
         },
         {
             "id": "782bfa5d-9803-4856-ad20-bcf002238ddc",
@@ -596,7 +600,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "mommy.png",
-            "_v": 1571033084397
+            "_v": 1571041682831
         },
         {
             "id": "84f5da37-8f35-4054-89f5-dffce057a9c3",
@@ -604,7 +608,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "pigs.png",
-            "_v": 1571033084397
+            "_v": 1571041682831
         },
         {
             "id": "bd68484b-58c5-44c3-a205-ea5bc991a25b",
@@ -612,7 +616,7 @@
             "numFrames": 4,
             "type": "animated",
             "filename": "queen man.png",
-            "_v": 1571033084397
+            "_v": 1571041682831
         },
         {
             "id": "ea9624d2-fa48-4afd-aaf4-1bdb7fbce583",
@@ -620,7 +624,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "sign.png",
-            "_v": 1571033084397
+            "_v": 1571041682832
         },
         {
             "id": "35036c40-aaf1-4e00-9aeb-fc0f33e44a6f",
@@ -628,7 +632,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "sister bess.png",
-            "_v": 1571033084397
+            "_v": 1571041682832
         },
         {
             "id": "e1fcf3d0-b10e-4b92-90c5-eaff9868cafe",
@@ -636,7 +640,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "star0.png",
-            "_v": 1571033084397
+            "_v": 1571041682832
         },
         {
             "id": "7d66458d-c209-4f0b-b6e9-b098fa8f0dc5",
@@ -644,7 +648,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "star1.png",
-            "_v": 1571033084397
+            "_v": 1571041682832
         },
         {
             "id": "9b0ef107-7a39-41f2-bf14-a861c7a80c99",
@@ -652,7 +656,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "star2.png",
-            "_v": 1571033084397
+            "_v": 1571041682832
         },
         {
             "id": "47c2bebc-901f-4c70-903d-4fb4f94c4cbd",
@@ -660,7 +664,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "star2a.png",
-            "_v": 1571033084397
+            "_v": 1571041682832
         }
     ],
     "scenes": [
@@ -2112,7 +2116,9 @@
                             "id": "1ee878b2-169a-457c-827f-4f55ac495d33",
                             "command": "EVENT_IF_TRUE",
                             "args": {
-                                "variable": "119"
+                                "variable": "119",
+                                "__collapse": true,
+                                "__collapseElse": true
                             },
                             "true": [
                                 {
@@ -2133,8 +2139,8 @@
                                     "command": "EVENT_IF_TRUE",
                                     "args": {
                                         "variable": "109",
-                                        "__collapse": true,
-                                        "__collapseElse": true
+                                        "__collapse": false,
+                                        "__collapseElse": false
                                     },
                                     "true": [
                                         {
@@ -2142,7 +2148,8 @@
                                             "command": "EVENT_IF_TRUE",
                                             "args": {
                                                 "variable": "110",
-                                                "__collapse": false
+                                                "__collapse": false,
+                                                "__collapseElse": true
                                             },
                                             "true": [
                                                 {
@@ -2170,7 +2177,7 @@
                                                     "id": "3734ff27-a293-4ac9-87ef-52c03b7e85b2",
                                                     "command": "EVENT_SET_TRUE",
                                                     "args": {
-                                                        "variable": "0"
+                                                        "variable": "119"
                                                     }
                                                 },
                                                 {
@@ -2218,88 +2225,123 @@
                                     ],
                                     "false": [
                                         {
-                                            "id": "32950d6b-ce0d-42eb-901f-bc388133f7cb",
+                                            "id": "27ae5423-53e5-46d6-ba07-8d2b3a8579a3",
                                             "command": "EVENT_IF_TRUE",
                                             "args": {
-                                                "variable": "107",
-                                                "__collapseElse": false,
-                                                "__collapse": false
+                                                "variable": "127"
                                             },
                                             "true": [
                                                 {
-                                                    "id": "62121ec8-394b-4993-9e08-47e7d6336f05",
+                                                    "id": "e72c3e81-53a9-4b3e-9cee-789e75d18744",
                                                     "command": "EVENT_TEXT",
                                                     "args": {
-                                                        "text": [
-                                                            "Hey babe, if you\nhave the time,",
-                                                            "could you pick up\nsome eggs from\nGeorge's?"
-                                                        ],
-                                                        "__collapse": true
+                                                        "text": "Can you help me\npick up some eggs\nfrom George's?"
                                                     }
                                                 },
                                                 {
-                                                    "id": "ef7d73d0-8fad-49d0-8c24-7aba1efcd644",
-                                                    "command": "EVENT_SET_VALUE",
-                                                    "args": {
-                                                        "variable": "7",
-                                                        "value": 2,
-                                                        "__collapse": true
-                                                    }
-                                                },
-                                                {
-                                                    "id": "5dca041f-b329-4440-a9d6-32fc6dc947d4",
-                                                    "command": "EVENT_TEXT",
-                                                    "args": {
-                                                        "text": "*You now have $07$\ncoins*",
-                                                        "__collapse": true
-                                                    }
-                                                },
-                                                {
-                                                    "id": "d9bf06ab-276c-46cb-982e-7107b07ed779",
-                                                    "command": "EVENT_SET_TRUE",
-                                                    "args": {
-                                                        "variable": "108",
-                                                        "__collapse": true
-                                                    }
-                                                },
-                                                {
-                                                    "id": "b776aa78-bff8-47ef-9b43-ae85692c95ee",
-                                                    "command": "EVENT_ACTOR_SET_DIRECTION",
-                                                    "args": {
-                                                        "actorId": "f4ecebd3-0d6c-425b-8aa7-5d0f36b59a83",
-                                                        "direction": "right"
-                                                    }
-                                                },
-                                                {
-                                                    "id": "23ef27d9-55db-41e8-8744-98acb7d0fd1e",
+                                                    "id": "869a1fdd-f50a-4b66-baa9-c75adbd67f0b",
                                                     "command": "EVENT_END"
                                                 }
                                             ],
                                             "false": [
                                                 {
-                                                    "id": "11fdb9ab-296e-4882-8ffe-57e3a79e2112",
-                                                    "command": "EVENT_TEXT",
+                                                    "id": "32950d6b-ce0d-42eb-901f-bc388133f7cb",
+                                                    "command": "EVENT_IF_TRUE",
                                                     "args": {
-                                                        "text": "Good morning,\nStar!"
-                                                    }
+                                                        "variable": "107",
+                                                        "__collapseElse": true,
+                                                        "__collapse": true
+                                                    },
+                                                    "true": [
+                                                        {
+                                                            "id": "62121ec8-394b-4993-9e08-47e7d6336f05",
+                                                            "command": "EVENT_TEXT",
+                                                            "args": {
+                                                                "text": [
+                                                                    "Hey babe, if you\nhave the time,",
+                                                                    "could you pick up\nsome eggs from\nGeorge's?"
+                                                                ],
+                                                                "__collapse": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "ef7d73d0-8fad-49d0-8c24-7aba1efcd644",
+                                                            "command": "EVENT_SET_VALUE",
+                                                            "args": {
+                                                                "variable": "7",
+                                                                "value": 2,
+                                                                "__collapse": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "5dca041f-b329-4440-a9d6-32fc6dc947d4",
+                                                            "command": "EVENT_TEXT",
+                                                            "args": {
+                                                                "text": "*You now have $07$\ncoins*",
+                                                                "__collapse": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "d9bf06ab-276c-46cb-982e-7107b07ed779",
+                                                            "command": "EVENT_SET_TRUE",
+                                                            "args": {
+                                                                "variable": "108",
+                                                                "__collapse": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "b776aa78-bff8-47ef-9b43-ae85692c95ee",
+                                                            "command": "EVENT_ACTOR_SET_DIRECTION",
+                                                            "args": {
+                                                                "actorId": "f4ecebd3-0d6c-425b-8aa7-5d0f36b59a83",
+                                                                "direction": "right",
+                                                                "__collapse": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "af737df0-ddf8-4ddc-9d1e-ca49a2dfac14",
+                                                            "command": "EVENT_SET_TRUE",
+                                                            "args": {
+                                                                "variable": "127",
+                                                                "__collapse": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "23ef27d9-55db-41e8-8744-98acb7d0fd1e",
+                                                            "command": "EVENT_END"
+                                                        }
+                                                    ],
+                                                    "false": [
+                                                        {
+                                                            "id": "11fdb9ab-296e-4882-8ffe-57e3a79e2112",
+                                                            "command": "EVENT_TEXT",
+                                                            "args": {
+                                                                "text": "Good morning,\nStar!"
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "35c194f0-a5cb-48c6-8bee-ab6484272c6c",
+                                                            "command": "EVENT_SET_TRUE",
+                                                            "args": {
+                                                                "variable": "107"
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "c3975ef6-6a02-42b7-9b98-656cbbc57551",
+                                                            "command": "EVENT_ACTOR_SET_DIRECTION",
+                                                            "args": {
+                                                                "actorId": "f4ecebd3-0d6c-425b-8aa7-5d0f36b59a83",
+                                                                "direction": "right"
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "77093e18-081f-4228-b83a-ae141c7eb832",
+                                                            "command": "EVENT_END"
+                                                        }
+                                                    ]
                                                 },
                                                 {
-                                                    "id": "35c194f0-a5cb-48c6-8bee-ab6484272c6c",
-                                                    "command": "EVENT_SET_TRUE",
-                                                    "args": {
-                                                        "variable": "107"
-                                                    }
-                                                },
-                                                {
-                                                    "id": "c3975ef6-6a02-42b7-9b98-656cbbc57551",
-                                                    "command": "EVENT_ACTOR_SET_DIRECTION",
-                                                    "args": {
-                                                        "actorId": "f4ecebd3-0d6c-425b-8aa7-5d0f36b59a83",
-                                                        "direction": "right"
-                                                    }
-                                                },
-                                                {
-                                                    "id": "77093e18-081f-4228-b83a-ae141c7eb832",
+                                                    "id": "1e2b9c73-9e7c-4313-b529-a1cab92da22c",
                                                     "command": "EVENT_END"
                                                 }
                                             ]
@@ -2315,6 +2357,14 @@
                                     "command": "EVENT_END"
                                 }
                             ]
+                        },
+                        {
+                            "id": "9b445aac-ed53-45bf-81e7-f70dd5a89243",
+                            "command": "EVENT_ACTOR_SET_DIRECTION",
+                            "args": {
+                                "actorId": "f4ecebd3-0d6c-425b-8aa7-5d0f36b59a83",
+                                "direction": "right"
+                            }
                         },
                         {
                             "id": "048405bd-e093-43b3-b410-de198a5d71fc",
@@ -2483,6 +2533,39 @@
             "height": 18,
             "actors": [
                 {
+                    "id": "54c7cec3-05c8-4d0b-b9b8-53daaa26e306",
+                    "spriteSheetId": "ea9624d2-fa48-4afd-aaf4-1bdb7fbce583",
+                    "x": 19,
+                    "y": 11,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "811a316d-6681-4332-85fd-09465565dc20",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Robin Street",
+                                    ">: Harmony Markets\nv: Spring's Street\n<: --   -   ----"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "e2e386df-60e8-4d97-bfd5-754bb1af90a6",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "*The area west has\nbeen scratched\nout*"
+                            }
+                        },
+                        {
+                            "id": "b2f567f3-2c6a-4749-b010-f64c088aa802",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
                     "id": "c69027cc-c54d-457b-8ee0-45ad296666ad",
                     "spriteSheetId": "782bfa5d-9803-4856-ad20-bcf002238ddc",
                     "x": 6,
@@ -2525,67 +2608,95 @@
                     "trigger": "walk",
                     "script": [
                         {
-                            "id": "8c8252ae-e357-431d-8ba9-56cb16926d60",
+                            "id": "80a02c54-e3fb-4e9e-a311-82e7ab2996c1",
                             "command": "EVENT_IF_TRUE",
                             "args": {
-                                "variable": "110"
+                                "variable": "113"
                             },
                             "true": [
                                 {
-                                    "id": "214cbaa3-cc47-4f9e-aafd-69f689ba801f",
-                                    "command": "EVENT_SWITCH_SCENE",
+                                    "id": "bb29c03e-c495-43ed-9b48-afa0861f2d97",
+                                    "command": "EVENT_TEXT",
                                     "args": {
-                                        "sceneId": "d34ec145-e39e-40b8-829b-9c6ac312c276",
-                                        "x": 9,
-                                        "y": 14,
-                                        "direction": "up",
-                                        "fadeSpeed": "2"
+                                        "text": "Locked."
                                     }
                                 },
                                 {
-                                    "id": "64626629-0ca7-464b-bcdc-6747f2f2bc38",
+                                    "id": "016d5e12-d258-4cfe-87e6-cc19c7ebb709",
                                     "command": "EVENT_END"
                                 }
                             ],
                             "false": [
                                 {
-                                    "id": "4a624887-aa14-45a6-ba65-00c2c653a652",
+                                    "id": "8c8252ae-e357-431d-8ba9-56cb16926d60",
                                     "command": "EVENT_IF_TRUE",
                                     "args": {
-                                        "variable": "109"
+                                        "variable": "110",
+                                        "__collapse": true,
+                                        "__collapseElse": true
                                     },
                                     "true": [
                                         {
-                                            "id": "7a49ef42-ca16-4510-abd3-fb933786c478",
-                                            "command": "EVENT_TEXT",
+                                            "id": "214cbaa3-cc47-4f9e-aafd-69f689ba801f",
+                                            "command": "EVENT_SWITCH_SCENE",
                                             "args": {
-                                                "text": [
-                                                    "*This is George's\nhouse*",
-                                                    "*But I should get\nthese eggs to mom\nbefore I forget*"
-                                                ]
+                                                "sceneId": "d34ec145-e39e-40b8-829b-9c6ac312c276",
+                                                "x": 9,
+                                                "y": 14,
+                                                "direction": "up",
+                                                "fadeSpeed": "2"
                                             }
                                         },
                                         {
-                                            "id": "f34873df-a9e8-4823-89b9-1b53051173d8",
+                                            "id": "64626629-0ca7-464b-bcdc-6747f2f2bc38",
                                             "command": "EVENT_END"
                                         }
                                     ],
                                     "false": [
                                         {
-                                            "id": "da59e6a2-32a9-4aa8-a588-a533a1a29568",
-                                            "command": "EVENT_TEXT",
+                                            "id": "4a624887-aa14-45a6-ba65-00c2c653a652",
+                                            "command": "EVENT_IF_TRUE",
                                             "args": {
-                                                "text": "Locked."
-                                            }
+                                                "variable": "109"
+                                            },
+                                            "true": [
+                                                {
+                                                    "id": "7a49ef42-ca16-4510-abd3-fb933786c478",
+                                                    "command": "EVENT_TEXT",
+                                                    "args": {
+                                                        "text": [
+                                                            "*This is George's\nhouse*",
+                                                            "*But I should get\nthese eggs to mom\nbefore I forget*"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "id": "f34873df-a9e8-4823-89b9-1b53051173d8",
+                                                    "command": "EVENT_END"
+                                                }
+                                            ],
+                                            "false": [
+                                                {
+                                                    "id": "da59e6a2-32a9-4aa8-a588-a533a1a29568",
+                                                    "command": "EVENT_TEXT",
+                                                    "args": {
+                                                        "text": "Locked."
+                                                    }
+                                                },
+                                                {
+                                                    "id": "c8994094-73b3-41c3-a2ff-93499e76e536",
+                                                    "command": "EVENT_END"
+                                                }
+                                            ]
                                         },
                                         {
-                                            "id": "c8994094-73b3-41c3-a2ff-93499e76e536",
+                                            "id": "6c93d8dc-1094-4d7d-bf31-c1911cbed161",
                                             "command": "EVENT_END"
                                         }
                                     ]
                                 },
                                 {
-                                    "id": "6c93d8dc-1094-4d7d-bf31-c1911cbed161",
+                                    "id": "bb191c01-e9b0-4858-bc7e-5fe6e8d64d49",
                                     "command": "EVENT_END"
                                 }
                             ]
@@ -2914,6 +3025,29 @@
             "height": 32,
             "actors": [
                 {
+                    "id": "4f016e7f-7826-4017-b7d7-8ae64a05035a",
+                    "spriteSheetId": "ea9624d2-fa48-4afd-aaf4-1bdb7fbce583",
+                    "x": 14,
+                    "y": 25,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "118ee052-e68a-430f-a8b3-a8ce5bd3495a",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": ">: Harmony Park\n<: Robin Street"
+                            }
+                        },
+                        {
+                            "id": "b2f567f3-2c6a-4749-b010-f64c088aa802",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
                     "id": "02a33b0a-3ab2-478a-ad24-eceb034b0e9e",
                     "spriteSheetId": "a2562e59-c5cd-44e4-9a11-b82b9d9c8a55",
                     "x": 14,
@@ -3013,8 +3147,8 @@
                 {
                     "id": "415ab8f5-8651-4c2d-93ce-2def8951bbd5",
                     "spriteSheetId": "28878e6b-390f-435e-a413-9f9a54789042",
-                    "x": 13,
-                    "y": 24,
+                    "x": 11,
+                    "y": 23,
                     "movementType": "randomWalk",
                     "direction": "right",
                     "moveSpeed": "1",
@@ -4143,7 +4277,34 @@
             "y": 931,
             "width": 32,
             "height": 18,
-            "actors": [],
+            "actors": [
+                {
+                    "id": "f4475050-3258-4689-a223-f662cd3148e6",
+                    "spriteSheetId": "ea9624d2-fa48-4afd-aaf4-1bdb7fbce583",
+                    "x": 20,
+                    "y": 10,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "70cfacde-78a1-4256-878b-deefd784bbba",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Spring's Street",
+                                    ">: Harmony Forests\nv: George's Farm\n^: Robin Street"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "b2f567f3-2c6a-4749-b010-f64c088aa802",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                }
+            ],
             "triggers": [
                 {
                     "id": "bf24b835-697b-4d78-8c30-5ac48312ca28",
@@ -4503,8 +4664,8 @@
             "id": "41562a24-5d3b-4712-ad71-5a7c8eb5c3e4",
             "name": "4a farm 2",
             "backgroundId": "0a4e7bc8-6dbb-44d5-b14c-bc9ee7410397",
-            "x": 337,
-            "y": 1118,
+            "x": 363,
+            "y": 1110,
             "width": 32,
             "height": 18,
             "actors": [
@@ -4889,8 +5050,8 @@
             "id": "ca9a5529-29c4-413c-a4a3-9529141313ac",
             "name": "2b the way to armstrongs",
             "backgroundId": "6008e4ef-1f56-456c-928a-422b04b98e4e",
-            "x": 349,
-            "y": 493,
+            "x": 348.44939569202535,
+            "y": 489.1457698441777,
             "width": 32,
             "height": 18,
             "actors": [
@@ -4899,10 +5060,16 @@
                     "spriteSheetId": "5c77cb32-8990-4ad9-be74-d013d3693b0b",
                     "x": 9,
                     "y": 12,
-                    "movementType": "randomFace",
+                    "movementType": "faceInteraction",
                     "direction": "down",
-                    "moveSpeed": "1",
-                    "animSpeed": "3"
+                    "moveSpeed": "3",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "b2f567f3-2c6a-4749-b010-f64c088aa802",
+                            "command": "EVENT_END"
+                        }
+                    ]
                 }
             ],
             "triggers": [
@@ -6202,6 +6369,14 @@
                                             },
                                             "true": [
                                                 {
+                                                    "id": "d367e472-3545-4d3e-bb9c-cfcf1aa19f82",
+                                                    "command": "EVENT_SET_VALUE",
+                                                    "args": {
+                                                        "variable": "7",
+                                                        "value": "0"
+                                                    }
+                                                },
+                                                {
                                                     "id": "b5943ba8-97e1-42ba-9e57-1c74bc1d8e15",
                                                     "command": "EVENT_TEXT",
                                                     "args": {
@@ -6955,10 +7130,10 @@
                 8,
                 0,
                 132,
-                40,
+                104,
                 65,
                 8,
-                2,
+                6,
                 132,
                 96,
                 64,
@@ -7401,7 +7576,7 @@
             "id": "f50428ab-a084-4591-9bba-2ba10fe7b1c6",
             "name": "template",
             "filename": "template.mod",
-            "_v": 1571033084399
+            "_v": 1571041682832
         }
     ]
 }
