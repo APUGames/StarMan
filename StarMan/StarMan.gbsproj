@@ -6,7 +6,7 @@
         "startX": 0,
         "startY": 0,
         "startDirection": "right",
-        "zoom": 200.02594390511513,
+        "zoom": 200,
         "startSceneId": "382961a1-e615-4b92-92a7-f1a791b50b7a",
         "playerSpriteSheetId": "e1fcf3d0-b10e-4b92-90c5-eaff9868cafe"
     },
@@ -85,6 +85,10 @@
         {
             "id": "104",
             "name": "talked to sister 2"
+        },
+        {
+            "id": "105",
+            "name": "slept in father's bed"
         }
     ],
     "backgrounds": [
@@ -845,8 +849,8 @@
             "id": "24af70ac-602c-4452-807e-eae6f320d58c",
             "name": "1b sister's room",
             "backgroundId": "0718d019-8572-4bf1-9c14-430c32b84080",
-            "x": 345.8347290040087,
-            "y": 279.518142435411,
+            "x": 338.8347290040087,
+            "y": 280.518142435411,
             "width": 20,
             "height": 18,
             "actors": [
@@ -1001,7 +1005,7 @@
                 4,
                 0,
                 64,
-                128,
+                129,
                 0,
                 4,
                 8,
@@ -1458,12 +1462,62 @@
             "id": "dfd43db2-077d-4019-93c6-8532fae9a969",
             "name": "1a hallway",
             "backgroundId": "e0fed7f1-f7e9-4287-b074-e42f573df239",
-            "x": 538.9134882986979,
-            "y": 69.99481189197589,
+            "x": 485.91348829869787,
+            "y": 172.99481189197587,
             "width": 20,
             "height": 18,
             "actors": [],
             "triggers": [
+                {
+                    "id": "b5c0b0e1-bd56-4fa4-8d1d-457beb468a21",
+                    "x": 9,
+                    "y": 13,
+                    "width": 2,
+                    "height": 1,
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "8c2f2dea-53e7-4492-b913-5b72acee6f06",
+                            "command": "EVENT_SWITCH_SCENE",
+                            "args": {
+                                "sceneId": "32704b40-90d1-42ef-94f0-9f45a8c2d8b8",
+                                "x": 9,
+                                "y": 5,
+                                "direction": "down",
+                                "fadeSpeed": "2"
+                            }
+                        },
+                        {
+                            "id": "56c2e4c3-ef01-4649-b11e-ffaca8c48cf8",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "d0faa407-6655-4901-87af-16d0007afa06",
+                    "x": 12,
+                    "y": 8,
+                    "width": 1,
+                    "height": 2,
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "922654e8-e33a-478c-b6e0-ad065524b294",
+                            "command": "EVENT_SWITCH_SCENE",
+                            "args": {
+                                "sceneId": "61efb3c0-d8e9-4ebb-83a3-e4b6907e04ea",
+                                "x": 5,
+                                "y": 8,
+                                "direction": "right",
+                                "fadeSpeed": "2"
+                            }
+                        },
+                        {
+                            "id": "56c2e4c3-ef01-4649-b11e-ffaca8c48cf8",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
                 {
                     "id": "bf0a9618-1e62-4274-abe2-6d706fabbba3",
                     "x": 9,
@@ -1551,6 +1605,281 @@
                 0,
                 152,
                 1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "61efb3c0-d8e9-4ebb-83a3-e4b6907e04ea",
+            "name": "1b mother's room",
+            "backgroundId": "68d64b78-2103-44de-9d3e-ec20f055750c",
+            "x": 610,
+            "y": 64,
+            "width": 20,
+            "height": 18,
+            "actors": [],
+            "triggers": [
+                {
+                    "id": "2526bdec-b48b-4282-8e1e-0714f752da3d",
+                    "x": 8,
+                    "y": 6,
+                    "width": 4,
+                    "height": 3,
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "5f3ec44c-1a61-4b4d-8752-67e13dc12bb5",
+                            "command": "EVENT_CHOICE",
+                            "args": {
+                                "variable": "105",
+                                "trueText": "Go to sleep.",
+                                "falseText": "Nevermind."
+                            }
+                        },
+                        {
+                            "id": "13098aad-b303-4a8e-9b19-c71d40c4caea",
+                            "command": "EVENT_SWITCH_SCENE",
+                            "args": {
+                                "sceneId": "1bf3c3c7-0ab8-4a91-bb01-1e68c7362543",
+                                "x": 1,
+                                "y": 1,
+                                "direction": "",
+                                "fadeSpeed": "2"
+                            }
+                        },
+                        {
+                            "id": "56c2e4c3-ef01-4649-b11e-ffaca8c48cf8",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "f1cfbffc-24f9-4836-aac7-8965e86b02c0",
+                    "x": 4,
+                    "y": 8,
+                    "width": 1,
+                    "height": 2,
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "c693df91-b5de-484b-93a9-3ae8d514e7d4",
+                            "command": "EVENT_SWITCH_SCENE",
+                            "args": {
+                                "sceneId": "dfd43db2-077d-4019-93c6-8532fae9a969",
+                                "x": 10,
+                                "y": 9,
+                                "direction": "left",
+                                "fadeSpeed": "2"
+                            }
+                        },
+                        {
+                            "id": "56c2e4c3-ef01-4649-b11e-ffaca8c48cf8",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                }
+            ],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                254,
+                7,
+                144,
+                144,
+                0,
+                1,
+                8,
+                0,
+                128,
+                0,
+                0,
+                8,
+                16,
+                128,
+                0,
+                1,
+                8,
+                224,
+                127,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1bf3c3c7-0ab8-4a91-bb01-1e68c7362543",
+            "name": "1c slept in mother's bed",
+            "backgroundId": "45e33d95-3237-4a82-8c9d-880d813895b3",
+            "x": 791.5,
+            "y": 61,
+            "width": 20,
+            "height": 18,
+            "actors": [],
+            "triggers": [],
+            "collisions": [
+                15,
+                0,
+                144,
+                0,
+                0,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "script": [
+                {
+                    "id": "feb023a0-65a5-41fe-a25d-f8c0bf5dfc99",
+                    "command": "EVENT_ACTOR_HIDE",
+                    "args": {
+                        "actorId": "player"
+                    }
+                },
+                {
+                    "id": "85c51738-37d6-4319-8c49-2c830863d5e9",
+                    "command": "EVENT_WAIT",
+                    "args": {
+                        "time": 0.5
+                    }
+                },
+                {
+                    "id": "99f54715-ca4f-40f7-816a-1f77cf7789d4",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": [
+                            "You dreamt of your\nfamily...",
+                            "Before he left..."
+                        ]
+                    }
+                },
+                {
+                    "id": "a8a99714-c843-420c-afc2-4ccc2754603b",
+                    "command": "EVENT_SWITCH_SCENE",
+                    "args": {
+                        "sceneId": "61efb3c0-d8e9-4ebb-83a3-e4b6907e04ea",
+                        "x": 6,
+                        "y": 7,
+                        "direction": "left",
+                        "fadeSpeed": "2"
+                    }
+                },
+                {
+                    "id": "56c2e4c3-ef01-4649-b11e-ffaca8c48cf8",
+                    "command": "EVENT_END"
+                }
+            ]
+        },
+        {
+            "id": "32704b40-90d1-42ef-94f0-9f45a8c2d8b8",
+            "name": "1c iin kitchen",
+            "backgroundId": "80817343-4a6d-4217-836d-7c0e8fb0f0b8",
+            "x": 611.5,
+            "y": 276.5,
+            "width": 20,
+            "height": 18,
+            "actors": [],
+            "triggers": [],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
                 0,
                 0,
                 0,
