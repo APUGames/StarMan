@@ -6,7 +6,7 @@
         "startX": 13,
         "startY": 7,
         "startDirection": "right",
-        "zoom": 50,
+        "zoom": 100,
         "startSceneId": "4912bee2-387a-472f-ae4f-6679b6149517",
         "playerSpriteSheetId": "e1fcf3d0-b10e-4b92-90c5-eaff9868cafe"
     },
@@ -188,7 +188,7 @@
             "imageWidth": 256,
             "imageHeight": 224,
             "filename": "abandonedlab.png",
-            "_v": 1571041682826
+            "_v": 1571094092220
         },
         {
             "id": "440e52a6-b630-44a2-9689-be3af1385716",
@@ -198,7 +198,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "animal tings.png",
-            "_v": 1571041682826
+            "_v": 1571094092220
         },
         {
             "id": "12068f32-a1a0-4873-ae43-a12ca1602c4d",
@@ -208,7 +208,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "chaddy's house int.png",
-            "_v": 1571041682826
+            "_v": 1571094092220
         },
         {
             "id": "45e33d95-3237-4a82-8c9d-880d813895b3",
@@ -218,7 +218,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "cut screen.png",
-            "_v": 1571041682826
+            "_v": 1571094092220
         },
         {
             "id": "0a4e7bc8-6dbb-44d5-b14c-bc9ee7410397",
@@ -228,7 +228,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "farm animals.png",
-            "_v": 1571041682826
+            "_v": 1571094092220
         },
         {
             "id": "7cb8f0dc-71ee-493d-b53a-3ac9342c5661",
@@ -238,7 +238,77 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "farm wheat.png",
-            "_v": 1571041682826
+            "_v": 1571094092220
+        },
+        {
+            "id": "d013216d-dca4-4b4e-8733-98dd417f7b4e",
+            "name": "forest 1",
+            "width": 32,
+            "height": 32,
+            "imageWidth": 256,
+            "imageHeight": 256,
+            "filename": "forest 1.png",
+            "_v": 1571094092220
+        },
+        {
+            "id": "93a02c24-d597-457d-96d4-6c62747ec4ec",
+            "name": "forest 2",
+            "width": 32,
+            "height": 32,
+            "imageWidth": 256,
+            "imageHeight": 256,
+            "filename": "forest 2.png",
+            "_v": 1571094092220
+        },
+        {
+            "id": "a2721fcb-1b92-4ee9-975e-92f426476308",
+            "name": "forest 3",
+            "width": 32,
+            "height": 32,
+            "imageWidth": 256,
+            "imageHeight": 256,
+            "filename": "forest 3.png",
+            "_v": 1571094092220
+        },
+        {
+            "id": "47ded469-47c9-468f-ad86-47b848524df5",
+            "name": "forest 4a",
+            "width": 32,
+            "height": 32,
+            "imageWidth": 256,
+            "imageHeight": 256,
+            "filename": "forest 4a.png",
+            "_v": 1571094092220
+        },
+        {
+            "id": "40f48528-134e-4a35-b8e2-190cb6dd2df0",
+            "name": "forest 4b",
+            "width": 32,
+            "height": 32,
+            "imageWidth": 256,
+            "imageHeight": 256,
+            "filename": "forest 4b.png",
+            "_v": 1571094092220
+        },
+        {
+            "id": "063b2ebc-1f71-4a0e-8c89-d0944fb1ebd0",
+            "name": "forest 5a",
+            "width": 32,
+            "height": 32,
+            "imageWidth": 256,
+            "imageHeight": 256,
+            "filename": "forest 5a.png",
+            "_v": 1571094092220
+        },
+        {
+            "id": "c8655ac9-8c38-425a-a6c2-2b5dc12deed2",
+            "name": "forest 5b",
+            "width": 32,
+            "height": 32,
+            "imageWidth": 256,
+            "imageHeight": 256,
+            "filename": "forest 5b.png",
+            "_v": 1571094092220
         },
         {
             "id": "60570f7d-7a70-4153-8298-2351082a163b",
@@ -248,7 +318,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "George's house.png",
-            "_v": 1571041682826
+            "_v": 1571094092220
         },
         {
             "id": "a4009aab-aa88-450a-8027-99e17486959a",
@@ -258,7 +328,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "George's.png",
-            "_v": 1571041682826
+            "_v": 1571094092220
         },
         {
             "id": "00586e68-6bb6-4b8a-888b-f9eca361a12c",
@@ -268,7 +338,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "georgies bedroom.png",
-            "_v": 1571041682826
+            "_v": 1571094092220
         },
         {
             "id": "e0fed7f1-f7e9-4287-b074-e42f573df239",
@@ -278,7 +348,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "hallway.png",
-            "_v": 1571041682826
+            "_v": 1571094092220
         },
         {
             "id": "88c03a2d-45a2-490a-be7b-44c58574c2b3",
@@ -288,7 +358,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "harmony park.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "52d665b7-b578-4077-bb58-ff20a9c4aa9c",
@@ -298,7 +368,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "harmony town 1.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "70b51a2f-8caa-42c9-8965-0780878989be",
@@ -308,7 +378,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "harmony town 2.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "80817343-4a6d-4217-836d-7c0e8fb0f0b8",
@@ -318,7 +388,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "housekitchen.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "0322e091-1267-4355-a257-479b3e1567f8",
@@ -328,7 +398,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "instructions copy.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "c5e63dc1-d0ae-41ba-a2f9-27bd89a151da",
@@ -338,7 +408,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "library int..png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "8e08d3b3-5851-413c-9e35-47eedf415fa5",
@@ -348,7 +418,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Marcy's int.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "ab7c2bb3-9868-4456-a061-be3f31ec02f0",
@@ -358,7 +428,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "marionette's house.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "68d64b78-2103-44de-9d3e-ec20f055750c",
@@ -368,7 +438,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "mother's room.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "d103c148-775e-439f-95d0-9c7f5d25bf6e",
@@ -378,7 +448,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "open folder.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "24f73b33-4d4f-4308-ae8e-f9162bd88318",
@@ -388,7 +458,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "Robin's Street.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "949a7d1e-4365-4764-8284-ada57333d27d",
@@ -398,7 +468,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "room.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "30d273a4-1773-489a-88d1-7fd8e6d8c1bf",
@@ -408,7 +478,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "rope running.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "0718d019-8572-4bf1-9c14-430c32b84080",
@@ -418,7 +488,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "sister's room.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "311ce60f-d05f-48fd-ba69-bc6cf1334919",
@@ -428,7 +498,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "sol bot copy.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "50a8769e-421a-4463-a8ad-de672111ed14",
@@ -438,7 +508,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "Sol top fitted.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "a8843ca2-9b6b-4304-8a86-37a96d2adffa",
@@ -448,7 +518,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "Spring's street.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "6008e4ef-1f56-456c-928a-422b04b98e4e",
@@ -458,7 +528,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "the way to armstrong's.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "ddb77308-6dd1-4292-9208-9311dc581021",
@@ -468,7 +538,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Title Screen.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         },
         {
             "id": "a3636bd7-927c-4db9-b1f5-9b260fa4dc01",
@@ -478,7 +548,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "yaya.png",
-            "_v": 1571041682826
+            "_v": 1571094092221
         }
     ],
     "spriteSheets": [
@@ -488,7 +558,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "1 trigger.png",
-            "_v": 1571041682830
+            "_v": 1571094092224
         },
         {
             "id": "a2562e59-c5cd-44e4-9a11-b82b9d9c8a55",
@@ -496,7 +566,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "chacy.png",
-            "_v": 1571041682830
+            "_v": 1571094092224
         },
         {
             "id": "87fbb955-a4f4-4f8a-bf2f-5a48b67cdb2c",
@@ -504,7 +574,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "chaddy.png",
-            "_v": 1571041682830
+            "_v": 1571094092224
         },
         {
             "id": "d6b0758b-701a-4d5b-83b8-d15551d5e0dd",
@@ -512,7 +582,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "charissa.png",
-            "_v": 1571041682830
+            "_v": 1571094092225
         },
         {
             "id": "537dcdff-4af5-45dd-8ade-fbb8437e1a33",
@@ -520,7 +590,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "charlie.png",
-            "_v": 1571041682831
+            "_v": 1571094092225
         },
         {
             "id": "5a240db3-a063-4aba-8fc7-459db5212fe4",
@@ -528,7 +598,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "chickens.png",
-            "_v": 1571041682831
+            "_v": 1571094092225
         },
         {
             "id": "7facdaeb-cdec-44bc-8fc3-8ff76e5f3402",
@@ -536,7 +606,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "clicker.png",
-            "_v": 1571041682831
+            "_v": 1571094092225
         },
         {
             "id": "ede130e6-013a-42d1-a786-1aed3fd3cf32",
@@ -544,7 +614,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "duck.png",
-            "_v": 1571041682831
+            "_v": 1571094092225
         },
         {
             "id": "4f79d206-aa11-445a-99e6-3d2ad024be2f",
@@ -552,7 +622,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "folder.png",
-            "_v": 1571041682831
+            "_v": 1571094092225
         },
         {
             "id": "28878e6b-390f-435e-a413-9f9a54789042",
@@ -560,7 +630,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "george.png",
-            "_v": 1571041682831
+            "_v": 1571094092225
         },
         {
             "id": "5c77cb32-8990-4ad9-be74-d013d3693b0b",
@@ -568,7 +638,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "george's son.png",
-            "_v": 1571041682831
+            "_v": 1571094092225
         },
         {
             "id": "e3c4edff-5166-4f7d-bb30-24f16e553dd5",
@@ -576,7 +646,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "jerry.png",
-            "_v": 1571041682831
+            "_v": 1571094092225
         },
         {
             "id": "f8984ee4-e3bf-42fc-a759-c90e31535051",
@@ -584,7 +654,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "loony dave.png",
-            "_v": 1571041682831
+            "_v": 1571094092225
         },
         {
             "id": "050601bb-6a55-42d2-8418-338db90a20ca",
@@ -592,7 +662,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "marionette.png",
-            "_v": 1571041682831
+            "_v": 1571094092225
         },
         {
             "id": "782bfa5d-9803-4856-ad20-bcf002238ddc",
@@ -600,7 +670,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "mommy.png",
-            "_v": 1571041682831
+            "_v": 1571094092225
         },
         {
             "id": "84f5da37-8f35-4054-89f5-dffce057a9c3",
@@ -608,7 +678,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "pigs.png",
-            "_v": 1571041682831
+            "_v": 1571094092225
         },
         {
             "id": "bd68484b-58c5-44c3-a205-ea5bc991a25b",
@@ -616,7 +686,7 @@
             "numFrames": 4,
             "type": "animated",
             "filename": "queen man.png",
-            "_v": 1571041682831
+            "_v": 1571094092225
         },
         {
             "id": "ea9624d2-fa48-4afd-aaf4-1bdb7fbce583",
@@ -624,7 +694,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "sign.png",
-            "_v": 1571041682832
+            "_v": 1571094092225
         },
         {
             "id": "35036c40-aaf1-4e00-9aeb-fc0f33e44a6f",
@@ -632,7 +702,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "sister bess.png",
-            "_v": 1571041682832
+            "_v": 1571094092225
         },
         {
             "id": "e1fcf3d0-b10e-4b92-90c5-eaff9868cafe",
@@ -640,7 +710,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "star0.png",
-            "_v": 1571041682832
+            "_v": 1571094092225
         },
         {
             "id": "7d66458d-c209-4f0b-b6e9-b098fa8f0dc5",
@@ -648,7 +718,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "star1.png",
-            "_v": 1571041682832
+            "_v": 1571094092225
         },
         {
             "id": "9b0ef107-7a39-41f2-bf14-a861c7a80c99",
@@ -656,7 +726,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "star2.png",
-            "_v": 1571041682832
+            "_v": 1571094092225
         },
         {
             "id": "47c2bebc-901f-4c70-903d-4fb4f94c4cbd",
@@ -664,7 +734,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "star2a.png",
-            "_v": 1571041682832
+            "_v": 1571094092225
         }
     ],
     "scenes": [
@@ -4307,6 +4377,31 @@
             ],
             "triggers": [
                 {
+                    "id": "f4aeeb35-fc7c-4e4d-8c34-d357199ffcc0",
+                    "x": 31,
+                    "y": 9,
+                    "width": 1,
+                    "height": 4,
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "3a5f047f-288b-4fb4-b0dd-957e7327bddb",
+                            "command": "EVENT_SWITCH_SCENE",
+                            "args": {
+                                "sceneId": "89b59819-7359-4267-b1c0-f8685413dcf9",
+                                "x": 1,
+                                "y": 15,
+                                "direction": "right",
+                                "fadeSpeed": "2"
+                            }
+                        },
+                        {
+                            "id": "22d1d497-0e70-4f06-922e-cb8c2aef8e16",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
                     "id": "bf24b835-697b-4d78-8c30-5ac48312ca28",
                     "x": 14,
                     "y": 8,
@@ -7569,6 +7664,1171 @@
                 0,
                 0
             ]
+        },
+        {
+            "id": "89b59819-7359-4267-b1c0-f8685413dcf9",
+            "name": "Scene 27",
+            "backgroundId": "d013216d-dca4-4b4e-8733-98dd417f7b4e",
+            "x": 980,
+            "y": 1304,
+            "width": 32,
+            "height": 32,
+            "actors": [],
+            "triggers": [
+                {
+                    "id": "9e8cef17-c7d8-449c-b667-13a8a50d938d",
+                    "x": 0,
+                    "y": 15,
+                    "width": 1,
+                    "height": 3,
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "5e9e5d55-f872-4c53-9581-88f3b832123c",
+                            "command": "EVENT_SWITCH_SCENE",
+                            "args": {
+                                "sceneId": "1f81a1be-51dd-4ae8-8139-638033411508",
+                                "x": 29,
+                                "y": 11,
+                                "direction": "left",
+                                "fadeSpeed": "2"
+                            }
+                        },
+                        {
+                            "id": "22d1d497-0e70-4f06-922e-cb8c2aef8e16",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "4b13ff90-95eb-4c5b-9f05-75bc38f8d3d7",
+                    "x": 31,
+                    "y": 15,
+                    "width": 1,
+                    "height": 2,
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "9558cdbc-a957-4b9c-9bf2-19a33e0ff895",
+                            "command": "EVENT_SWITCH_SCENE",
+                            "args": {
+                                "sceneId": "b6773ac0-a3f4-4b1c-9f8a-d44ded58d920",
+                                "x": 1,
+                                "y": 15,
+                                "direction": "right",
+                                "fadeSpeed": "2"
+                            }
+                        },
+                        {
+                            "id": "22d1d497-0e70-4f06-922e-cb8c2aef8e16",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                }
+            ],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "b6773ac0-a3f4-4b1c-9f8a-d44ded58d920",
+            "name": "Scene 28",
+            "backgroundId": "93a02c24-d597-457d-96d4-6c62747ec4ec",
+            "x": 1260,
+            "y": 1308,
+            "width": 32,
+            "height": 32,
+            "actors": [],
+            "triggers": [
+                {
+                    "id": "caa40969-b6a6-4b5c-b5ae-d7d14f5ca090",
+                    "x": 14,
+                    "y": 31,
+                    "width": 4,
+                    "height": 1,
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "7ce2f848-fa1e-4c91-bc86-9a4d437fa87d",
+                            "command": "EVENT_SWITCH_SCENE",
+                            "args": {
+                                "sceneId": "e6191ee4-ba57-4602-834c-02db13326599",
+                                "x": 15,
+                                "y": 1,
+                                "direction": "down",
+                                "fadeSpeed": "2"
+                            }
+                        },
+                        {
+                            "id": "22d1d497-0e70-4f06-922e-cb8c2aef8e16",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "bf5a6f5c-c256-4fe7-acdf-ffbcae7cf4cb",
+                    "x": 14,
+                    "y": 0,
+                    "width": 4,
+                    "height": 1,
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "848e6139-147f-496b-83ba-b9e771407342",
+                            "command": "EVENT_SWITCH_SCENE",
+                            "args": {
+                                "sceneId": "88af85e6-235e-4d7e-8b35-70ddf4721a5a",
+                                "x": 15,
+                                "y": 30,
+                                "direction": "up",
+                                "fadeSpeed": "2"
+                            }
+                        },
+                        {
+                            "id": "22d1d497-0e70-4f06-922e-cb8c2aef8e16",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "29b5a4a9-65c0-4e0e-8d3e-0d3bdecfd0e7",
+                    "x": 31,
+                    "y": 15,
+                    "width": 1,
+                    "height": 2,
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "ad21c90a-be2c-4ce6-99aa-c3a55e332fc1",
+                            "command": "EVENT_SWITCH_SCENE",
+                            "args": {
+                                "sceneId": "d159661c-f79c-4ff8-bcc3-a791e18f6e3a",
+                                "x": 1,
+                                "y": 15,
+                                "direction": "right",
+                                "fadeSpeed": "2"
+                            }
+                        },
+                        {
+                            "id": "22d1d497-0e70-4f06-922e-cb8c2aef8e16",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                }
+            ],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "d159661c-f79c-4ff8-bcc3-a791e18f6e3a",
+            "name": "Scene 29",
+            "backgroundId": "a2721fcb-1b92-4ee9-975e-92f426476308",
+            "x": 1544,
+            "y": 1302,
+            "width": 32,
+            "height": 32,
+            "actors": [],
+            "triggers": [
+                {
+                    "id": "ef3c0273-6ed6-4a8a-baf4-f5e97c87a6fb",
+                    "x": 14,
+                    "y": 31,
+                    "width": 4,
+                    "height": 1,
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "6f782ed1-8d54-4368-a3fd-773d00411db3",
+                            "command": "EVENT_SWITCH_SCENE",
+                            "args": {
+                                "sceneId": "d79fd684-05e1-41d7-9376-f33b67815df7",
+                                "x": 15,
+                                "y": 1,
+                                "direction": "down",
+                                "fadeSpeed": "2"
+                            }
+                        },
+                        {
+                            "id": "22d1d497-0e70-4f06-922e-cb8c2aef8e16",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "6378aadf-3371-4ec0-93d0-166472a8a8b9",
+                    "x": 14,
+                    "y": 0,
+                    "width": 4,
+                    "height": 1,
+                    "trigger": "walk",
+                    "script": [
+                        {
+                            "id": "a885675d-dee7-4798-9f34-a2081f8a4bb3",
+                            "command": "EVENT_SWITCH_SCENE",
+                            "args": {
+                                "sceneId": "c0723960-5d3d-49fe-bfda-03cdd32d9e8a",
+                                "x": 15,
+                                "y": 29,
+                                "direction": "up",
+                                "fadeSpeed": "2"
+                            }
+                        },
+                        {
+                            "id": "22d1d497-0e70-4f06-922e-cb8c2aef8e16",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                }
+            ],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "c0723960-5d3d-49fe-bfda-03cdd32d9e8a",
+            "name": "Scene 30",
+            "backgroundId": "47ded469-47c9-468f-ad86-47b848524df5",
+            "x": 1544,
+            "y": 1020,
+            "width": 32,
+            "height": 32,
+            "actors": [],
+            "triggers": [],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "d79fd684-05e1-41d7-9376-f33b67815df7",
+            "name": "Scene 31",
+            "backgroundId": "40f48528-134e-4a35-b8e2-190cb6dd2df0",
+            "x": 1552,
+            "y": 1590,
+            "width": 32,
+            "height": 32,
+            "actors": [],
+            "triggers": [],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "88af85e6-235e-4d7e-8b35-70ddf4721a5a",
+            "name": "Scene 32",
+            "backgroundId": "063b2ebc-1f71-4a0e-8c89-d0944fb1ebd0",
+            "x": 1264,
+            "y": 1008,
+            "width": 32,
+            "height": 32,
+            "actors": [],
+            "triggers": [],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "e6191ee4-ba57-4602-834c-02db13326599",
+            "name": "Scene 33",
+            "backgroundId": "c8655ac9-8c38-425a-a6c2-2b5dc12deed2",
+            "x": 1264,
+            "y": 1586,
+            "width": 32,
+            "height": 32,
+            "actors": [],
+            "triggers": [],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
         }
     ],
     "music": [
@@ -7576,7 +8836,7 @@
             "id": "f50428ab-a084-4591-9bba-2ba10fe7b1c6",
             "name": "template",
             "filename": "template.mod",
-            "_v": 1571041682832
+            "_v": 1571094092226
         }
     ]
 }
