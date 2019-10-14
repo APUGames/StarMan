@@ -6,9 +6,9 @@
         "startX": 0,
         "startY": 0,
         "startDirection": "right",
-        "zoom": 112.20856046676636,
+        "zoom": 200,
         "startSceneId": "382961a1-e615-4b92-92a7-f1a791b50b7a",
-        "playerSpriteSheetId": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26"
+        "playerSpriteSheetId": "6f58bf94-0d8e-4396-a500-fe2414d6c25e"
     },
     "_version": "1.1.0",
     "author": "rebeccazheng",
@@ -76,7 +76,7 @@
             "imageWidth": 256,
             "imageHeight": 224,
             "filename": "abandonedlab.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "440e52a6-b630-44a2-9689-be3af1385716",
@@ -86,7 +86,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "animal tings.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "45e33d95-3237-4a82-8c9d-880d813895b3",
@@ -96,7 +96,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "cut screen.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "0a4e7bc8-6dbb-44d5-b14c-bc9ee7410397",
@@ -106,7 +106,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "farm animals.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "7cb8f0dc-71ee-493d-b53a-3ac9342c5661",
@@ -116,7 +116,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "farm wheat.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "60570f7d-7a70-4153-8298-2351082a163b",
@@ -126,7 +126,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "George's house.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "a4009aab-aa88-450a-8027-99e17486959a",
@@ -136,7 +136,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "George's.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "00586e68-6bb6-4b8a-888b-f9eca361a12c",
@@ -146,7 +146,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "georgies bedroom.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "e0fed7f1-f7e9-4287-b074-e42f573df239",
@@ -156,7 +156,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "hallway.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "88c03a2d-45a2-490a-be7b-44c58574c2b3",
@@ -166,7 +166,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "harmony park.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "52d665b7-b578-4077-bb58-ff20a9c4aa9c",
@@ -176,7 +176,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "harmony town 1.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "70b51a2f-8caa-42c9-8965-0780878989be",
@@ -186,7 +186,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "harmony town 2.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "80817343-4a6d-4217-836d-7c0e8fb0f0b8",
@@ -196,7 +196,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "housekitchen.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "0322e091-1267-4355-a257-479b3e1567f8",
@@ -206,7 +206,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "instructions copy.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "c5e63dc1-d0ae-41ba-a2f9-27bd89a151da",
@@ -216,7 +216,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "library int..png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "68d64b78-2103-44de-9d3e-ec20f055750c",
@@ -226,7 +226,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "mother's room.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "d103c148-775e-439f-95d0-9c7f5d25bf6e",
@@ -236,7 +236,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "open folder.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "24f73b33-4d4f-4308-ae8e-f9162bd88318",
@@ -246,7 +246,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "Robin's Street.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "949a7d1e-4365-4764-8284-ada57333d27d",
@@ -256,7 +256,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "room.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "30d273a4-1773-489a-88d1-7fd8e6d8c1bf",
@@ -266,7 +266,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "rope running.png",
-            "_v": 1571022561761
+            "_v": 1571023004908
         },
         {
             "id": "0718d019-8572-4bf1-9c14-430c32b84080",
@@ -276,7 +276,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "sister's room.png",
-            "_v": 1571022561762
+            "_v": 1571023004908
         },
         {
             "id": "311ce60f-d05f-48fd-ba69-bc6cf1334919",
@@ -286,7 +286,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "sol bot copy.png",
-            "_v": 1571022561762
+            "_v": 1571023004908
         },
         {
             "id": "50a8769e-421a-4463-a8ad-de672111ed14",
@@ -296,7 +296,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "Sol top fitted.png",
-            "_v": 1571022561762
+            "_v": 1571023004909
         },
         {
             "id": "a8843ca2-9b6b-4304-8a86-37a96d2adffa",
@@ -306,7 +306,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "Spring's street.png",
-            "_v": 1571022561762
+            "_v": 1571023004909
         },
         {
             "id": "6008e4ef-1f56-456c-928a-422b04b98e4e",
@@ -316,7 +316,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "the way to armstrong's.png",
-            "_v": 1571022561762
+            "_v": 1571023004909
         },
         {
             "id": "ddb77308-6dd1-4292-9208-9311dc581021",
@@ -326,7 +326,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Title Screen.png",
-            "_v": 1571022561762
+            "_v": 1571023004909
         },
         {
             "id": "a3636bd7-927c-4db9-b1f5-9b260fa4dc01",
@@ -336,17 +336,25 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "yaya.png",
-            "_v": 1571022561762
+            "_v": 1571023004909
         }
     ],
     "spriteSheets": [
+        {
+            "id": "37ececc8-e008-4658-99c0-623342f4f5b2",
+            "name": "1 trigger",
+            "numFrames": 1,
+            "type": "static",
+            "filename": "1 trigger.png",
+            "_v": 1571023004922
+        },
         {
             "id": "a2562e59-c5cd-44e4-9a11-b82b9d9c8a55",
             "name": "chacy",
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "chacy.png",
-            "_v": 1571022561776
+            "_v": 1571023004923
         },
         {
             "id": "87fbb955-a4f4-4f8a-bf2f-5a48b67cdb2c",
@@ -354,7 +362,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "chaddy.png",
-            "_v": 1571022561776
+            "_v": 1571023004923
         },
         {
             "id": "d6b0758b-701a-4d5b-83b8-d15551d5e0dd",
@@ -362,7 +370,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "charissa.png",
-            "_v": 1571022561776
+            "_v": 1571023004923
         },
         {
             "id": "537dcdff-4af5-45dd-8ade-fbb8437e1a33",
@@ -370,7 +378,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "charlie.png",
-            "_v": 1571022561776
+            "_v": 1571023004923
         },
         {
             "id": "5a240db3-a063-4aba-8fc7-459db5212fe4",
@@ -378,7 +386,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "chickens.png",
-            "_v": 1571022561776
+            "_v": 1571023004923
         },
         {
             "id": "7facdaeb-cdec-44bc-8fc3-8ff76e5f3402",
@@ -386,7 +394,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "clicker.png",
-            "_v": 1571022561776
+            "_v": 1571023004923
         },
         {
             "id": "ede130e6-013a-42d1-a786-1aed3fd3cf32",
@@ -394,7 +402,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "duck.png",
-            "_v": 1571022561776
+            "_v": 1571023004923
         },
         {
             "id": "4f79d206-aa11-445a-99e6-3d2ad024be2f",
@@ -402,7 +410,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "folder.png",
-            "_v": 1571022561776
+            "_v": 1571023004923
         },
         {
             "id": "28878e6b-390f-435e-a413-9f9a54789042",
@@ -410,7 +418,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "george.png",
-            "_v": 1571022561776
+            "_v": 1571023004923
         },
         {
             "id": "5c77cb32-8990-4ad9-be74-d013d3693b0b",
@@ -418,7 +426,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "george's son.png",
-            "_v": 1571022561776
+            "_v": 1571023004923
         },
         {
             "id": "e3c4edff-5166-4f7d-bb30-24f16e553dd5",
@@ -426,15 +434,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "jerry.png",
-            "_v": 1571022561776
-        },
-        {
-            "id": "e94ef1e6-90e0-4aba-a09c-3f4c742c1751",
-            "name": "just a trigger",
-            "numFrames": 1,
-            "type": "static",
-            "filename": "just a trigger.png",
-            "_v": 1571022561776
+            "_v": 1571023004923
         },
         {
             "id": "f8984ee4-e3bf-42fc-a759-c90e31535051",
@@ -442,7 +442,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "loony dave.png",
-            "_v": 1571022561776
+            "_v": 1571023004923
         },
         {
             "id": "050601bb-6a55-42d2-8418-338db90a20ca",
@@ -450,7 +450,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "marionette.png",
-            "_v": 1571022561776
+            "_v": 1571023004923
         },
         {
             "id": "782bfa5d-9803-4856-ad20-bcf002238ddc",
@@ -458,7 +458,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "mommy.png",
-            "_v": 1571022561776
+            "_v": 1571023004923
         },
         {
             "id": "84f5da37-8f35-4054-89f5-dffce057a9c3",
@@ -466,7 +466,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "pigs.png",
-            "_v": 1571022561776
+            "_v": 1571023004923
         },
         {
             "id": "bd68484b-58c5-44c3-a205-ea5bc991a25b",
@@ -474,7 +474,7 @@
             "numFrames": 4,
             "type": "animated",
             "filename": "queen man.png",
-            "_v": 1571022561776
+            "_v": 1571023004923
         },
         {
             "id": "ea9624d2-fa48-4afd-aaf4-1bdb7fbce583",
@@ -482,7 +482,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "sign.png",
-            "_v": 1571022561776
+            "_v": 1571023004923
         },
         {
             "id": "35036c40-aaf1-4e00-9aeb-fc0f33e44a6f",
@@ -490,7 +490,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "sister bess.png",
-            "_v": 1571022561776
+            "_v": 1571023004923
         },
         {
             "id": "6f58bf94-0d8e-4396-a500-fe2414d6c25e",
@@ -498,7 +498,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "Star.png",
-            "_v": 1571022561777
+            "_v": 1571023004923
         }
     ],
     "scenes": [
@@ -633,7 +633,7 @@
                             "command": "EVENT_CHOICE",
                             "args": {
                                 "variable": "10",
-                                "trueText": "New Game",
+                                "trueText": "Start Game",
                                 "falseText": "Continue"
                             }
                         },
@@ -650,10 +650,10 @@
                                     "id": "a5dddc76-e5fe-424a-9b2b-1ad1834acefb",
                                     "command": "EVENT_SWITCH_SCENE",
                                     "args": {
-                                        "sceneId": "94c18861-b352-4f49-a64d-52f2e3415077",
-                                        "x": 27,
-                                        "y": 26,
-                                        "direction": "left",
+                                        "sceneId": "e476da06-3e15-4b95-b629-5269b8fedd38",
+                                        "x": 5,
+                                        "y": 9,
+                                        "direction": "right",
                                         "fadeSpeed": "4"
                                     }
                                 },
@@ -664,33 +664,15 @@
                             ],
                             "false": [
                                 {
-                                    "id": "d2cd5812-f043-4aa5-b827-475dc79091e7",
-                                    "command": "EVENT_IF_SAVED_DATA",
-                                    "args": {},
-                                    "true": [
-                                        {
-                                            "id": "4a922761-48a9-410d-b603-00e7a7dd91ea",
-                                            "command": "EVENT_LOAD_DATA",
-                                            "args": {}
-                                        },
-                                        {
-                                            "id": "f5866539-6ba8-4962-ae6e-0814d54fb4f9",
-                                            "command": "EVENT_END"
-                                        }
-                                    ],
-                                    "false": [
-                                        {
-                                            "id": "06b8f464-996e-4c51-8918-50d62bb0c02d",
-                                            "command": "EVENT_TEXT",
-                                            "args": {
-                                                "text": "No Save Data\nFound..."
-                                            }
-                                        },
-                                        {
-                                            "id": "a830176d-10b5-4ff2-b276-4a0e15a39ae9",
-                                            "command": "EVENT_END"
-                                        }
-                                    ]
+                                    "id": "d7f30dcf-55c3-4e8f-8858-46c9d888fd55",
+                                    "command": "EVENT_SWITCH_SCENE",
+                                    "args": {
+                                        "sceneId": "c3044227-e8eb-49d5-82d6-a795eab36826",
+                                        "x": 9,
+                                        "y": 5,
+                                        "direction": "down",
+                                        "fadeSpeed": "2"
+                                    }
                                 },
                                 {
                                     "id": "c920bf80-2dde-4ae2-b3f2-52b225124458",
@@ -712,10 +694,106 @@
         },
         {
             "id": "c3044227-e8eb-49d5-82d6-a795eab36826",
-            "name": "Scene 2",
+            "name": "Instructions",
             "backgroundId": "0322e091-1267-4355-a257-479b3e1567f8",
             "x": 150.05365179103904,
-            "y": 257.8885616202561,
+            "y": 263.2357472316222,
+            "width": 20,
+            "height": 18,
+            "actors": [
+                {
+                    "id": "100680dd-b8c5-4769-bd3d-425636dc91f5",
+                    "spriteSheetId": "5a240db3-a063-4aba-8fc7-459db5212fe4",
+                    "x": 9,
+                    "y": 13,
+                    "movementType": "faceInteraction",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "1833f475-ceab-44de-8ffc-d75c97a6db34",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Hello! I'm a\nchicken.",
+                                    "Please enjoy the\ngame!"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "67aa9b72-4fdf-4ffe-9a49-2585e3d91eb5",
+                            "command": "EVENT_SWITCH_SCENE",
+                            "args": {
+                                "sceneId": "4912bee2-387a-472f-ae4f-6679b6149517",
+                                "x": 0,
+                                "y": 0,
+                                "direction": "",
+                                "fadeSpeed": "2"
+                            }
+                        },
+                        {
+                            "id": "bc830a61-a62c-4647-884e-ded3e8094ae7",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                }
+            ],
+            "triggers": [],
+            "collisions": [
+                255,
+                255,
+                31,
+                0,
+                128,
+                1,
+                0,
+                24,
+                0,
+                128,
+                1,
+                0,
+                24,
+                0,
+                128,
+                1,
+                0,
+                24,
+                0,
+                128,
+                1,
+                0,
+                24,
+                0,
+                128,
+                1,
+                0,
+                24,
+                0,
+                128,
+                1,
+                0,
+                24,
+                0,
+                128,
+                1,
+                0,
+                24,
+                0,
+                128,
+                1,
+                0,
+                248,
+                255,
+                255
+            ]
+        },
+        {
+            "id": "24af70ac-602c-4452-807e-eae6f320d58c",
+            "name": "1 sister's room",
+            "backgroundId": "0718d019-8572-4bf1-9c14-430c32b84080",
+            "x": 345.8347290040087,
+            "y": 279.518142435411,
             "width": 20,
             "height": 18,
             "actors": [],
@@ -769,16 +847,62 @@
             ]
         },
         {
-            "id": "24af70ac-602c-4452-807e-eae6f320d58c",
-            "name": "Scene 3",
-            "backgroundId": "a3636bd7-927c-4db9-b1f5-9b260fa4dc01",
-            "x": 374.6354474684167,
-            "y": 66.28107721296959,
+            "id": "e476da06-3e15-4b95-b629-5269b8fedd38",
+            "name": "1",
+            "backgroundId": "949a7d1e-4365-4764-8284-ada57333d27d",
+            "x": 342.55233380021986,
+            "y": 73.41065802812436,
             "width": 20,
             "height": 18,
             "actors": [],
             "triggers": [],
-            "collisions": []
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
         }
     ],
     "music": [
@@ -786,7 +910,7 @@
             "id": "f50428ab-a084-4591-9bba-2ba10fe7b1c6",
             "name": "template",
             "filename": "template.mod",
-            "_v": 1571022561777
+            "_v": 1571023004924
         }
     ]
 }
