@@ -3,11 +3,11 @@
         "showCollisions": true,
         "showConnections": true,
         "startMapId": "cb5e225f-e996-4ca8-b068-09a12ec18b75",
-        "startX": 0,
-        "startY": 0,
+        "startX": 13,
+        "startY": 7,
         "startDirection": "right",
-        "zoom": 50,
-        "startSceneId": "382961a1-e615-4b92-92a7-f1a791b50b7a",
+        "zoom": 200,
+        "startSceneId": "4912bee2-387a-472f-ae4f-6679b6149517",
         "playerSpriteSheetId": "e1fcf3d0-b10e-4b92-90c5-eaff9868cafe"
     },
     "_version": "1.1.0",
@@ -104,7 +104,7 @@
             "imageWidth": 256,
             "imageHeight": 224,
             "filename": "abandonedlab.png",
-            "_v": 1571027378639
+            "_v": 1571030774327
         },
         {
             "id": "440e52a6-b630-44a2-9689-be3af1385716",
@@ -114,7 +114,17 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "animal tings.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
+        },
+        {
+            "id": "12068f32-a1a0-4873-ae43-a12ca1602c4d",
+            "name": "chaddy's house int",
+            "width": 20,
+            "height": 18,
+            "imageWidth": 160,
+            "imageHeight": 144,
+            "filename": "chaddy's house int.png",
+            "_v": 1571030774327
         },
         {
             "id": "45e33d95-3237-4a82-8c9d-880d813895b3",
@@ -124,7 +134,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "cut screen.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "0a4e7bc8-6dbb-44d5-b14c-bc9ee7410397",
@@ -134,7 +144,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "farm animals.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "7cb8f0dc-71ee-493d-b53a-3ac9342c5661",
@@ -144,7 +154,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "farm wheat.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "60570f7d-7a70-4153-8298-2351082a163b",
@@ -154,7 +164,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "George's house.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "a4009aab-aa88-450a-8027-99e17486959a",
@@ -164,7 +174,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "George's.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "00586e68-6bb6-4b8a-888b-f9eca361a12c",
@@ -174,7 +184,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "georgies bedroom.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "e0fed7f1-f7e9-4287-b074-e42f573df239",
@@ -184,7 +194,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "hallway.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "88c03a2d-45a2-490a-be7b-44c58574c2b3",
@@ -194,7 +204,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "harmony park.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "52d665b7-b578-4077-bb58-ff20a9c4aa9c",
@@ -204,7 +214,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "harmony town 1.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "70b51a2f-8caa-42c9-8965-0780878989be",
@@ -214,7 +224,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "harmony town 2.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "80817343-4a6d-4217-836d-7c0e8fb0f0b8",
@@ -224,7 +234,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "housekitchen.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "0322e091-1267-4355-a257-479b3e1567f8",
@@ -234,7 +244,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "instructions copy.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "c5e63dc1-d0ae-41ba-a2f9-27bd89a151da",
@@ -244,7 +254,27 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "library int..png",
-            "_v": 1571027378640
+            "_v": 1571030774327
+        },
+        {
+            "id": "8e08d3b3-5851-413c-9e35-47eedf415fa5",
+            "name": "Marcy's int",
+            "width": 20,
+            "height": 18,
+            "imageWidth": 160,
+            "imageHeight": 144,
+            "filename": "Marcy's int.png",
+            "_v": 1571030774327
+        },
+        {
+            "id": "ab7c2bb3-9868-4456-a061-be3f31ec02f0",
+            "name": "marionette's house",
+            "width": 20,
+            "height": 18,
+            "imageWidth": 160,
+            "imageHeight": 144,
+            "filename": "marionette's house.png",
+            "_v": 1571030774327
         },
         {
             "id": "68d64b78-2103-44de-9d3e-ec20f055750c",
@@ -254,7 +284,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "mother's room.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "d103c148-775e-439f-95d0-9c7f5d25bf6e",
@@ -264,7 +294,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "open folder.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "24f73b33-4d4f-4308-ae8e-f9162bd88318",
@@ -274,7 +304,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "Robin's Street.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "949a7d1e-4365-4764-8284-ada57333d27d",
@@ -284,7 +314,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "room.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "30d273a4-1773-489a-88d1-7fd8e6d8c1bf",
@@ -294,7 +324,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "rope running.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "0718d019-8572-4bf1-9c14-430c32b84080",
@@ -304,7 +334,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "sister's room.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "311ce60f-d05f-48fd-ba69-bc6cf1334919",
@@ -314,7 +344,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "sol bot copy.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "50a8769e-421a-4463-a8ad-de672111ed14",
@@ -324,7 +354,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "Sol top fitted.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "a8843ca2-9b6b-4304-8a86-37a96d2adffa",
@@ -334,7 +364,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "Spring's street.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "6008e4ef-1f56-456c-928a-422b04b98e4e",
@@ -344,7 +374,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "the way to armstrong's.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "ddb77308-6dd1-4292-9208-9311dc581021",
@@ -354,7 +384,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Title Screen.png",
-            "_v": 1571027378640
+            "_v": 1571030774327
         },
         {
             "id": "a3636bd7-927c-4db9-b1f5-9b260fa4dc01",
@@ -364,7 +394,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "yaya.png",
-            "_v": 1571027378641
+            "_v": 1571030774327
         }
     ],
     "spriteSheets": [
@@ -374,7 +404,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "1 trigger.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "a2562e59-c5cd-44e4-9a11-b82b9d9c8a55",
@@ -382,7 +412,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "chacy.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "87fbb955-a4f4-4f8a-bf2f-5a48b67cdb2c",
@@ -390,7 +420,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "chaddy.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "d6b0758b-701a-4d5b-83b8-d15551d5e0dd",
@@ -398,7 +428,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "charissa.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "537dcdff-4af5-45dd-8ade-fbb8437e1a33",
@@ -406,7 +436,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "charlie.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "5a240db3-a063-4aba-8fc7-459db5212fe4",
@@ -414,7 +444,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "chickens.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "7facdaeb-cdec-44bc-8fc3-8ff76e5f3402",
@@ -422,7 +452,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "clicker.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "ede130e6-013a-42d1-a786-1aed3fd3cf32",
@@ -430,7 +460,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "duck.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "4f79d206-aa11-445a-99e6-3d2ad024be2f",
@@ -438,7 +468,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "folder.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "28878e6b-390f-435e-a413-9f9a54789042",
@@ -446,7 +476,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "george.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "5c77cb32-8990-4ad9-be74-d013d3693b0b",
@@ -454,7 +484,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "george's son.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "e3c4edff-5166-4f7d-bb30-24f16e553dd5",
@@ -462,7 +492,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "jerry.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "f8984ee4-e3bf-42fc-a759-c90e31535051",
@@ -470,7 +500,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "loony dave.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "050601bb-6a55-42d2-8418-338db90a20ca",
@@ -478,7 +508,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "marionette.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "782bfa5d-9803-4856-ad20-bcf002238ddc",
@@ -486,7 +516,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "mommy.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "84f5da37-8f35-4054-89f5-dffce057a9c3",
@@ -494,7 +524,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "pigs.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "bd68484b-58c5-44c3-a205-ea5bc991a25b",
@@ -502,7 +532,7 @@
             "numFrames": 4,
             "type": "animated",
             "filename": "queen man.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "ea9624d2-fa48-4afd-aaf4-1bdb7fbce583",
@@ -510,7 +540,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "sign.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "35036c40-aaf1-4e00-9aeb-fc0f33e44a6f",
@@ -518,7 +548,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "sister bess.png",
-            "_v": 1571027378907
+            "_v": 1571030774331
         },
         {
             "id": "e1fcf3d0-b10e-4b92-90c5-eaff9868cafe",
@@ -526,7 +556,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "star0.png",
-            "_v": 1571027378907
+            "_v": 1571030774332
         },
         {
             "id": "7d66458d-c209-4f0b-b6e9-b098fa8f0dc5",
@@ -534,7 +564,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "star1.png",
-            "_v": 1571027378926
+            "_v": 1571030774332
         },
         {
             "id": "9b0ef107-7a39-41f2-bf14-a861c7a80c99",
@@ -542,7 +572,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "star2.png",
-            "_v": 1571027378942
+            "_v": 1571030774332
         },
         {
             "id": "47c2bebc-901f-4c70-903d-4fb4f94c4cbd",
@@ -550,7 +580,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "star2a.png",
-            "_v": 1571027378963
+            "_v": 1571030774332
         }
     ],
     "scenes": [
@@ -2092,7 +2122,7 @@
         },
         {
             "id": "b5145028-22be-400b-9f25-67939e9274d8",
-            "name": "Scene 10",
+            "name": "2a robin's street",
             "backgroundId": "24f73b33-4d4f-4308-ae8e-f9162bd88318",
             "x": 615,
             "y": 494,
@@ -2177,10 +2207,10 @@
         },
         {
             "id": "f6ad121d-c90b-44a5-a70f-80ca99146861",
-            "name": "Scene 11",
+            "name": "2a harmony town 1",
             "backgroundId": "52d665b7-b578-4077-bb58-ff20a9c4aa9c",
-            "x": 965,
-            "y": 370,
+            "x": 964,
+            "y": 379,
             "width": 20,
             "height": 32,
             "actors": [],
@@ -2270,10 +2300,10 @@
         },
         {
             "id": "bda2f181-f3f5-48ba-9ffd-79aa4f403b3e",
-            "name": "Scene 12",
+            "name": "2a haromny park ",
             "backgroundId": "88c03a2d-45a2-490a-be7b-44c58574c2b3",
-            "x": 1132,
-            "y": 370,
+            "x": 1130,
+            "y": 377,
             "width": 32,
             "height": 32,
             "actors": [],
@@ -2411,10 +2441,10 @@
         },
         {
             "id": "dc2dbc34-8663-44f7-816c-22d8a58a72d1",
-            "name": "Scene 13",
+            "name": "2a harmony town 2",
             "backgroundId": "70b51a2f-8caa-42c9-8965-0780878989be",
             "x": 1396,
-            "y": 368,
+            "y": 377,
             "width": 20,
             "height": 32,
             "actors": [],
@@ -2504,10 +2534,10 @@
         },
         {
             "id": "1f81a1be-51dd-4ae8-8139-638033411508",
-            "name": "Scene 14",
+            "name": "2a springs street",
             "backgroundId": "a8843ca2-9b6b-4304-8a86-37a96d2adffa",
-            "x": 613,
-            "y": 739,
+            "x": 617,
+            "y": 949,
             "width": 32,
             "height": 18,
             "actors": [],
@@ -2589,10 +2619,10 @@
         },
         {
             "id": "7a67f50e-a5df-4206-8612-7464983c58e4",
-            "name": "Scene 15",
+            "name": "4a farm",
             "backgroundId": "7cb8f0dc-71ee-493d-b53a-3ac9342c5661",
-            "x": 614.5,
-            "y": 912,
+            "x": 618.5,
+            "y": 1116,
             "width": 32,
             "height": 18,
             "actors": [],
@@ -2674,10 +2704,10 @@
         },
         {
             "id": "41562a24-5d3b-4712-ad71-5a7c8eb5c3e4",
-            "name": "Scene 16",
+            "name": "4a farm 2",
             "backgroundId": "0a4e7bc8-6dbb-44d5-b14c-bc9ee7410397",
-            "x": 342,
-            "y": 911,
+            "x": 346,
+            "y": 1115,
             "width": 32,
             "height": 18,
             "actors": [],
@@ -2759,10 +2789,10 @@
         },
         {
             "id": "ca9a5529-29c4-413c-a4a3-9529141313ac",
-            "name": "Scene 17",
+            "name": "2b the way to armstrongs",
             "backgroundId": "6008e4ef-1f56-456c-928a-422b04b98e4e",
-            "x": 348,
-            "y": 494,
+            "x": 349,
+            "y": 493,
             "width": 32,
             "height": 18,
             "actors": [],
@@ -2844,10 +2874,10 @@
         },
         {
             "id": "c5199f6d-9d3d-402f-877d-95540f8812fd",
-            "name": "Scene 18",
+            "name": "2b armstrongs",
             "backgroundId": "b8223b1b-20bb-4fa7-b97c-74c3913fbb8a",
             "x": 73,
-            "y": 409,
+            "y": 408,
             "width": 32,
             "height": 28,
             "actors": [],
@@ -2969,7 +2999,7 @@
         },
         {
             "id": "cea54102-5996-4c9c-a958-ac20dad93687",
-            "name": "Scene 19",
+            "name": "3a george's",
             "backgroundId": "a4009aab-aa88-450a-8027-99e17486959a",
             "x": 966,
             "y": 669,
@@ -2987,37 +3017,37 @@
                 0,
                 0,
                 0,
+                12,
+                252,
+                63,
+                39,
                 0,
+                64,
+                62,
                 0,
+                38,
                 0,
+                64,
+                2,
+                6,
+                36,
+                96,
+                80,
+                4,
+                6,
+                5,
+                240,
+                64,
+                4,
                 0,
+                196,
                 0,
+                112,
+                2,
                 0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
+                228,
+                159,
+                127,
                 0,
                 0,
                 0,
@@ -3027,7 +3057,7 @@
         },
         {
             "id": "248d4a7d-816d-4316-be87-1ea7a299d2e2",
-            "name": "Scene 20",
+            "name": "3a lirbary",
             "backgroundId": "c5e63dc1-d0ae-41ba-a2f9-27bd89a151da",
             "x": 1136,
             "y": 669,
@@ -3046,36 +3076,36 @@
                 0,
                 0,
                 0,
+                240,
+                255,
                 0,
+                1,
+                8,
+                158,
+                159,
+                39,
                 0,
+                64,
+                78,
+                32,
+                135,
+                240,
+                16,
+                8,
+                15,
+                129,
                 0,
+                16,
+                8,
                 0,
+                129,
                 0,
+                16,
+                8,
                 0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
+                129,
+                159,
+                31,
                 0,
                 0,
                 0,
@@ -3085,10 +3115,242 @@
         },
         {
             "id": "5b5ae30c-6f3d-420b-b2bd-0f8d79b4ab21",
-            "name": "Scene 21",
+            "name": "3a animal tings",
             "backgroundId": "440e52a6-b630-44a2-9689-be3af1385716",
             "x": 1306,
             "y": 668,
+            "width": 20,
+            "height": 18,
+            "actors": [],
+            "triggers": [],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                224,
+                255,
+                3,
+                2,
+                64,
+                224,
+                31,
+                4,
+                2,
+                64,
+                32,
+                0,
+                4,
+                2,
+                64,
+                32,
+                0,
+                4,
+                2,
+                124,
+                32,
+                32,
+                0,
+                2,
+                2,
+                32,
+                32,
+                0,
+                158,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "f6d91a8c-066f-4932-9d02-f1e1d7bb0265",
+            "name": "3a marcy's",
+            "backgroundId": "8e08d3b3-5851-413c-9e35-47eedf415fa5",
+            "x": 1481,
+            "y": 665,
+            "width": 20,
+            "height": 18,
+            "actors": [],
+            "triggers": [],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                240,
+                255,
+                0,
+                1,
+                8,
+                144,
+                159,
+                0,
+                1,
+                8,
+                16,
+                128,
+                0,
+                97,
+                8,
+                16,
+                143,
+                0,
+                1,
+                8,
+                16,
+                128,
+                0,
+                1,
+                8,
+                16,
+                128,
+                0,
+                159,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "d34ec145-e39e-40b8-829b-9c6ac312c276",
+            "name": "3b george's house",
+            "backgroundId": "60570f7d-7a70-4153-8298-2351082a163b",
+            "x": 611,
+            "y": 670,
+            "width": 20,
+            "height": 18,
+            "actors": [],
+            "triggers": [],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                248,
+                63,
+                135,
+                144,
+                64,
+                8,
+                0,
+                132,
+                0,
+                64,
+                8,
+                6,
+                132,
+                104,
+                65,
+                14,
+                6,
+                36,
+                0,
+                64,
+                2,
+                0,
+                36,
+                0,
+                64,
+                2,
+                0,
+                230,
+                159,
+                63,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "f1de71af-4e78-4bfa-87fc-64e943c1f71d",
+            "name": "3b george's room",
+            "backgroundId": "00586e68-6bb6-4b8a-888b-f9eca361a12c",
+            "x": 778,
+            "y": 670,
+            "width": 20,
+            "height": 18,
+            "actors": [],
+            "triggers": [],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                132,
+                31,
+                162,
+                4,
+                82,
+                50,
+                192,
+                36,
+                3,
+                76,
+                2,
+                0,
+                36,
+                48,
+                64,
+                2,
+                30,
+                36,
+                224,
+                64,
+                2,
+                3,
+                36,
+                0,
+                64,
+                2,
+                0,
+                228,
+                159,
+                127,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "bf2295d7-abbe-4e50-8cc6-e285cff2e70d",
+            "name": "3b marionette's house",
+            "backgroundId": "ab7c2bb3-9868-4456-a061-be3f31ec02f0",
+            "x": 893,
+            "y": 955,
             "width": 20,
             "height": 18,
             "actors": [],
@@ -3140,18 +3402,6 @@
                 0,
                 0
             ]
-        },
-        {
-            "id": "f6d91a8c-066f-4932-9d02-f1e1d7bb0265",
-            "name": "Scene 22",
-            "backgroundId": "a3636bd7-927c-4db9-b1f5-9b260fa4dc01",
-            "x": 1481,
-            "y": 665,
-            "width": 20,
-            "height": 18,
-            "actors": [],
-            "triggers": [],
-            "collisions": []
         }
     ],
     "music": [
@@ -3159,7 +3409,7 @@
             "id": "f50428ab-a084-4591-9bba-2ba10fe7b1c6",
             "name": "template",
             "filename": "template.mod",
-            "_v": 1571027378965
+            "_v": 1571030774332
         }
     ]
 }
