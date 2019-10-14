@@ -6,7 +6,7 @@
         "startX": 0,
         "startY": 0,
         "startDirection": "right",
-        "zoom": 100,
+        "zoom": 50,
         "startSceneId": "382961a1-e615-4b92-92a7-f1a791b50b7a",
         "playerSpriteSheetId": "e1fcf3d0-b10e-4b92-90c5-eaff9868cafe"
     },
