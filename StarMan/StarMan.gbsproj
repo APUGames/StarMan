@@ -3,11 +3,11 @@
         "showCollisions": true,
         "showConnections": true,
         "startMapId": "cb5e225f-e996-4ca8-b068-09a12ec18b75",
-        "startX": 15,
-        "startY": 14,
+        "startX": 13,
+        "startY": 16,
         "startDirection": "right",
-        "zoom": 151.7782490774989,
-        "startSceneId": "c0723960-5d3d-49fe-bfda-03cdd32d9e8a",
+        "zoom": 135.4508884102106,
+        "startSceneId": "bda2f181-f3f5-48ba-9ffd-79aa4f403b3e",
         "playerSpriteSheetId": "e1fcf3d0-b10e-4b92-90c5-eaff9868cafe",
         "startMoveSpeed": "1",
         "startAnimSpeed": "3"
@@ -2960,95 +2960,83 @@
                     "trigger": "walk",
                     "script": [
                         {
-                            "id": "80a02c54-e3fb-4e9e-a311-82e7ab2996c1",
+                            "id": "8c8252ae-e357-431d-8ba9-56cb16926d60",
                             "command": "EVENT_IF_TRUE",
                             "args": {
-                                "variable": "113"
+                                "variable": "110",
+                                "__collapse": false,
+                                "__collapseElse": false
                             },
                             "true": [
                                 {
-                                    "id": "bb29c03e-c495-43ed-9b48-afa0861f2d97",
+                                    "id": "add4f17f-c518-4e25-ad52-ba25cd3ddf35",
                                     "command": "EVENT_TEXT",
                                     "args": {
-                                        "text": "Locked."
+                                        "text": "*You unlocked the\ndoor*"
                                     }
                                 },
                                 {
-                                    "id": "016d5e12-d258-4cfe-87e6-cc19c7ebb709",
+                                    "id": "0f7ec361-b3d8-4c86-bc73-eacd34524daa",
+                                    "command": "EVENT_WAIT",
+                                    "args": {
+                                        "time": 0.5
+                                    }
+                                },
+                                {
+                                    "id": "214cbaa3-cc47-4f9e-aafd-69f689ba801f",
+                                    "command": "EVENT_SWITCH_SCENE",
+                                    "args": {
+                                        "sceneId": "d34ec145-e39e-40b8-829b-9c6ac312c276",
+                                        "x": 9,
+                                        "y": 14,
+                                        "direction": "up",
+                                        "fadeSpeed": "2"
+                                    }
+                                },
+                                {
+                                    "id": "64626629-0ca7-464b-bcdc-6747f2f2bc38",
                                     "command": "EVENT_END"
                                 }
                             ],
                             "false": [
                                 {
-                                    "id": "8c8252ae-e357-431d-8ba9-56cb16926d60",
+                                    "id": "4a624887-aa14-45a6-ba65-00c2c653a652",
                                     "command": "EVENT_IF_TRUE",
                                     "args": {
-                                        "variable": "110",
-                                        "__collapse": true,
-                                        "__collapseElse": true
+                                        "variable": "109"
                                     },
                                     "true": [
                                         {
-                                            "id": "214cbaa3-cc47-4f9e-aafd-69f689ba801f",
-                                            "command": "EVENT_SWITCH_SCENE",
+                                            "id": "7a49ef42-ca16-4510-abd3-fb933786c478",
+                                            "command": "EVENT_TEXT",
                                             "args": {
-                                                "sceneId": "d34ec145-e39e-40b8-829b-9c6ac312c276",
-                                                "x": 9,
-                                                "y": 14,
-                                                "direction": "up",
-                                                "fadeSpeed": "2"
+                                                "text": [
+                                                    "*This is George's\nhouse*",
+                                                    "*But I should get\nthese eggs to mom\nbefore I forget*"
+                                                ]
                                             }
                                         },
                                         {
-                                            "id": "64626629-0ca7-464b-bcdc-6747f2f2bc38",
+                                            "id": "f34873df-a9e8-4823-89b9-1b53051173d8",
                                             "command": "EVENT_END"
                                         }
                                     ],
                                     "false": [
                                         {
-                                            "id": "4a624887-aa14-45a6-ba65-00c2c653a652",
-                                            "command": "EVENT_IF_TRUE",
+                                            "id": "da59e6a2-32a9-4aa8-a588-a533a1a29568",
+                                            "command": "EVENT_TEXT",
                                             "args": {
-                                                "variable": "109"
-                                            },
-                                            "true": [
-                                                {
-                                                    "id": "7a49ef42-ca16-4510-abd3-fb933786c478",
-                                                    "command": "EVENT_TEXT",
-                                                    "args": {
-                                                        "text": [
-                                                            "*This is George's\nhouse*",
-                                                            "*But I should get\nthese eggs to mom\nbefore I forget*"
-                                                        ]
-                                                    }
-                                                },
-                                                {
-                                                    "id": "f34873df-a9e8-4823-89b9-1b53051173d8",
-                                                    "command": "EVENT_END"
-                                                }
-                                            ],
-                                            "false": [
-                                                {
-                                                    "id": "da59e6a2-32a9-4aa8-a588-a533a1a29568",
-                                                    "command": "EVENT_TEXT",
-                                                    "args": {
-                                                        "text": "Locked."
-                                                    }
-                                                },
-                                                {
-                                                    "id": "c8994094-73b3-41c3-a2ff-93499e76e536",
-                                                    "command": "EVENT_END"
-                                                }
-                                            ]
+                                                "text": "Locked."
+                                            }
                                         },
                                         {
-                                            "id": "6c93d8dc-1094-4d7d-bf31-c1911cbed161",
+                                            "id": "c8994094-73b3-41c3-a2ff-93499e76e536",
                                             "command": "EVENT_END"
                                         }
                                     ]
                                 },
                                 {
-                                    "id": "bb191c01-e9b0-4858-bc7e-5fe6e8d64d49",
+                                    "id": "6c93d8dc-1094-4d7d-bf31-c1911cbed161",
                                     "command": "EVENT_END"
                                 }
                             ]
@@ -4348,6 +4336,13 @@
                                                                                     "I have something\nfor you too...",
                                                                                     "Here!"
                                                                                 ]
+                                                                            }
+                                                                        },
+                                                                        {
+                                                                            "id": "0a0f5163-b04b-4c42-b5c8-947a125d8007",
+                                                                            "command": "EVENT_TEXT",
+                                                                            "args": {
+                                                                                "text": "*Charlie is\noffering you his\nheart*"
                                                                             }
                                                                         },
                                                                         {
@@ -8947,8 +8942,8 @@
                                     "command": "EVENT_IF_TRUE",
                                     "args": {
                                         "variable": "135",
-                                        "__collapse": true,
-                                        "__collapseElse": true
+                                        "__collapse": false,
+                                        "__collapseElse": false
                                     },
                                     "true": [
                                         {
@@ -9145,7 +9140,7 @@
                                                             "args": {
                                                                 "variable": "132",
                                                                 "__collapse": false,
-                                                                "__collapseElse": true
+                                                                "__collapseElse": false
                                                             },
                                                             "true": [
                                                                 {
@@ -9157,6 +9152,13 @@
                                                                             "Thank you so\nmuch... Here:",
                                                                             "I have something\nfor you too..."
                                                                         ]
+                                                                    }
+                                                                },
+                                                                {
+                                                                    "id": "a9d0fbf8-a291-40c7-aab4-cc5d84c1612e",
+                                                                    "command": "EVENT_TEXT",
+                                                                    "args": {
+                                                                        "text": "*Charissa is\noffering you her\nheart*"
                                                                     }
                                                                 },
                                                                 {
@@ -9253,7 +9255,7 @@
                                                                     "command": "EVENT_IF_TRUE",
                                                                     "args": {
                                                                         "variable": "124",
-                                                                        "__collapse": true
+                                                                        "__collapse": false
                                                                     },
                                                                     "true": [
                                                                         {
@@ -9274,7 +9276,7 @@
                                                                             "command": "EVENT_IF_TRUE",
                                                                             "args": {
                                                                                 "variable": "123",
-                                                                                "__collapse": true,
+                                                                                "__collapse": false,
                                                                                 "__collapseElse": true
                                                                             },
                                                                             "true": [
@@ -10346,16 +10348,6 @@
                     "animSpeed": "3",
                     "script": [
                         {
-                            "id": "5016ec44-13b2-4f3d-a87f-caee87c842ab",
-                            "command": "EVENT_TEXT",
-                            "args": {
-                                "text": [
-                                    "*It's a book!*",
-                                    "*I wonder who it\nbelongs to*"
-                                ]
-                            }
-                        },
-                        {
                             "id": "d43e404f-bc4f-4305-acb4-99dd30c4b80e",
                             "command": "EVENT_IF_TRUE",
                             "args": {
@@ -10399,6 +10391,16 @@
                                 }
                             ],
                             "false": [
+                                {
+                                    "id": "5016ec44-13b2-4f3d-a87f-caee87c842ab",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "*It's a book!*",
+                                            "*I wonder who it\nbelongs to*"
+                                        ]
+                                    }
+                                },
                                 {
                                     "id": "54e79e1a-ccdf-4d96-bca9-42b5a6a1a809",
                                     "command": "EVENT_END"
@@ -10590,16 +10592,6 @@
                     "animSpeed": "3",
                     "script": [
                         {
-                            "id": "831cf7d1-cd78-4807-800e-841839f84412",
-                            "command": "EVENT_TEXT",
-                            "args": {
-                                "text": [
-                                    "*It's a squishy!*",
-                                    "*I wonder who it\nbelongs to*"
-                                ]
-                            }
-                        },
-                        {
                             "id": "00adc22b-b755-4b83-bde5-4a0865d0b15d",
                             "command": "EVENT_IF_TRUE",
                             "args": {
@@ -10643,6 +10635,16 @@
                                 }
                             ],
                             "false": [
+                                {
+                                    "id": "831cf7d1-cd78-4807-800e-841839f84412",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": [
+                                            "*It's a squishy!*",
+                                            "*I wonder who it\nbelongs to*"
+                                        ]
+                                    }
+                                },
                                 {
                                     "id": "0ef5b3c5-f34c-4d93-ae75-09ec2ac75316",
                                     "command": "EVENT_END"
@@ -11476,6 +11478,20 @@
                                 "variable": "144"
                             },
                             "true": [
+                                {
+                                    "id": "173ee2ff-3435-4893-be1e-d34fd1fd44f0",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "*You unlocked the\ndoor*"
+                                    }
+                                },
+                                {
+                                    "id": "c05b4439-8ef7-444f-b94d-6221a1811672",
+                                    "command": "EVENT_WAIT",
+                                    "args": {
+                                        "time": 0.5
+                                    }
+                                },
                                 {
                                     "id": "d681ea16-2de6-4f82-954f-7540105d6f87",
                                     "command": "EVENT_SWITCH_SCENE",
