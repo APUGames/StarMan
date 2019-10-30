@@ -6,8 +6,8 @@
         "startX": 11,
         "startY": 8,
         "startDirection": "down",
-        "zoom": 301.00624120939756,
-        "startSceneId": "d2eb3ae1-a7af-4e64-a090-bc79e950b6a4",
+        "zoom": 50,
+        "startSceneId": "4912bee2-387a-472f-ae4f-6679b6149517",
         "playerSpriteSheetId": "e1fcf3d0-b10e-4b92-90c5-eaff9868cafe",
         "startMoveSpeed": "1",
         "startAnimSpeed": "3"
@@ -354,7 +354,7 @@
             "imageWidth": 256,
             "imageHeight": 224,
             "filename": "abandonedlab.png",
-            "_v": 1572007049665
+            "_v": 1572427803563
         },
         {
             "id": "440e52a6-b630-44a2-9689-be3af1385716",
@@ -364,7 +364,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "animal tings.png",
-            "_v": 1572007049665
+            "_v": 1572427803563
         },
         {
             "id": "4c76d93b-9ddc-4633-b9b9-330116eddc7e",
@@ -374,7 +374,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "armstrong 1.png",
-            "_v": 1572007049665
+            "_v": 1572427803563
         },
         {
             "id": "d4eafe86-f2a9-49a9-98d1-c6ba0547b2b7",
@@ -384,7 +384,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "armstrong 2.png",
-            "_v": 1572007049665
+            "_v": 1572427803563
         },
         {
             "id": "87324190-46b5-4055-ba66-b1cfc151423d",
@@ -394,7 +394,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "armstrong 3.png",
-            "_v": 1572007049665
+            "_v": 1572427803563
         },
         {
             "id": "12c13dbc-9440-45f3-bcfe-953d1cadcb7e",
@@ -404,7 +404,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "armstrong 4.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "fe7c76da-b29a-4cac-9598-085a5985def0",
@@ -414,7 +414,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "armstrong 5.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "233e75d6-288e-4544-9172-bc0f3856765b",
@@ -424,7 +424,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "armstrong 6.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "40df0ee8-2efa-48c2-93a1-75ba18f394a3",
@@ -434,7 +434,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "armstrong 7.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "384b6c1a-23a9-437c-825b-2f908226a7fe",
@@ -444,7 +444,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "armstrong 8.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "f8cd0261-28d4-40eb-bb0c-c646ced21fba",
@@ -454,7 +454,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "armstrong 9.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "c7ab0cce-de6a-488c-8bc2-aae9083a3ae6",
@@ -464,7 +464,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Armstrong's 00 too dark.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "9ed0d298-9eae-497d-94ac-66ae0be45a53",
@@ -474,7 +474,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Armstrong's z portal shard.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "12068f32-a1a0-4873-ae43-a12ca1602c4d",
@@ -484,7 +484,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "chaddy's house int.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "05285f0c-11cb-4339-aa60-404b1ad84ca9",
@@ -494,7 +494,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "city entrance.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "7501927e-d9d7-4134-bdfb-69d8758b9987",
@@ -504,7 +504,7 @@
             "imageWidth": 160,
             "imageHeight": 200,
             "filename": "city hall int 1.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "f4f699b9-a003-4847-883e-4ffcde7ef3f2",
@@ -514,7 +514,7 @@
             "imageWidth": 200,
             "imageHeight": 160,
             "filename": "city hall int 2.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "cbcd2051-f093-4e1d-b13b-e1ed40e5cf71",
@@ -524,7 +524,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "city hall.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "2ac99262-1de8-4820-9e25-187aaed5fe16",
@@ -534,7 +534,7 @@
             "imageWidth": 256,
             "imageHeight": 200,
             "filename": "city1.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "4126ac51-773a-418a-b2d9-bea70c654555",
@@ -544,7 +544,7 @@
             "imageWidth": 256,
             "imageHeight": 200,
             "filename": "city2.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "e1112b2c-751f-4203-8d22-76af5c33a13f",
@@ -554,7 +554,7 @@
             "imageWidth": 256,
             "imageHeight": 200,
             "filename": "city3.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "efcbfe24-83af-4b0e-ac95-ea4e6654470d",
@@ -564,7 +564,7 @@
             "imageWidth": 256,
             "imageHeight": 200,
             "filename": "city4.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "e8e23237-09ea-4a18-a336-83653e7dd30d",
@@ -574,7 +574,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "clickers other.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "77e6b117-3060-482c-929e-4c7d2ceb32e3",
@@ -584,7 +584,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "clickers.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "8ae7f4b9-6bda-4028-85c8-c4eb32181a4d",
@@ -594,7 +594,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "computer clicker program.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "c86e1ae6-3e10-48ce-9618-facf5a399484",
@@ -604,7 +604,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "computer open.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "45e33d95-3237-4a82-8c9d-880d813895b3",
@@ -614,7 +614,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "cut screen.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "a5775c24-bad5-4674-856a-f8d60894cf10",
@@ -624,7 +624,7 @@
             "imageWidth": 160,
             "imageHeight": 162,
             "filename": "d7x76k9-01758c12-58ba-4728-9b10-ec2f649a9bae copy.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "0a4e7bc8-6dbb-44d5-b14c-bc9ee7410397",
@@ -634,7 +634,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "farm animals.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "7cb8f0dc-71ee-493d-b53a-3ac9342c5661",
@@ -644,7 +644,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "farm wheat.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "d013216d-dca4-4b4e-8733-98dd417f7b4e",
@@ -654,7 +654,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "forest 1.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "93a02c24-d597-457d-96d4-6c62747ec4ec",
@@ -664,7 +664,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "forest 2.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "a2721fcb-1b92-4ee9-975e-92f426476308",
@@ -674,7 +674,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "forest 3.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "47ded469-47c9-468f-ad86-47b848524df5",
@@ -684,7 +684,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "forest 4a.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "40f48528-134e-4a35-b8e2-190cb6dd2df0",
@@ -694,7 +694,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "forest 4b.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "063b2ebc-1f71-4a0e-8c89-d0944fb1ebd0",
@@ -704,7 +704,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "forest 5a.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "c8655ac9-8c38-425a-a6c2-2b5dc12deed2",
@@ -714,7 +714,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "forest 5b.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "c329eed4-74ae-40bb-a67e-3064f61e8801",
@@ -724,7 +724,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "garden of man 1.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "0fa668fc-a40d-4242-8cb7-3e72b3c1ccab",
@@ -734,7 +734,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "garden of man 2.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "318754a1-3377-469b-8a49-6c10c00f04b5",
@@ -744,7 +744,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "garden of man 3.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "d0d38ddb-b1ca-42c9-b337-744453b0dde8",
@@ -754,7 +754,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "garden of man 4.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "4cb6a349-079f-4930-84ec-f32a33fc1fe5",
@@ -764,7 +764,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "garden of man 5.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "60570f7d-7a70-4153-8298-2351082a163b",
@@ -774,7 +774,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "George's house.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "a4009aab-aa88-450a-8027-99e17486959a",
@@ -784,7 +784,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "George's.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "00586e68-6bb6-4b8a-888b-f9eca361a12c",
@@ -794,7 +794,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "georgies bedroom.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "e0fed7f1-f7e9-4287-b074-e42f573df239",
@@ -804,7 +804,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "hallway.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "88c03a2d-45a2-490a-be7b-44c58574c2b3",
@@ -814,7 +814,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "harmony park.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "52d665b7-b578-4077-bb58-ff20a9c4aa9c",
@@ -824,7 +824,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "harmony town 1.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "70b51a2f-8caa-42c9-8965-0780878989be",
@@ -834,7 +834,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "harmony town 2.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "80817343-4a6d-4217-836d-7c0e8fb0f0b8",
@@ -844,7 +844,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "housekitchen.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "03d272de-4079-4fc5-bab7-a1cb2af8be39",
@@ -854,7 +854,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "houses1.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "2ddbbc33-eebd-4ef7-a0b9-e59420688a55",
@@ -864,7 +864,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "houses2.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "2c702efb-dc87-44c5-98b6-4b5d2467f7b9",
@@ -874,7 +874,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "houses3.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "832a7ef0-8023-4ad1-9233-6248755d779e",
@@ -884,7 +884,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "houses4.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "0322e091-1267-4355-a257-479b3e1567f8",
@@ -894,7 +894,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "instructions copy.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "c5e63dc1-d0ae-41ba-a2f9-27bd89a151da",
@@ -904,7 +904,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "library int..png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "cf65da5c-a2ac-4f16-866a-6d373d491a16",
@@ -914,7 +914,7 @@
             "imageWidth": 192,
             "imageHeight": 256,
             "filename": "long walk.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "779a85b6-e617-4e76-b6e2-fed5c26083b6",
@@ -924,7 +924,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "man cave portal.png",
-            "_v": 1572007049666
+            "_v": 1572427803563
         },
         {
             "id": "051b0ea4-4b37-43c0-a469-9985d1daaafc",
@@ -934,7 +934,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "man cave1.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         },
         {
             "id": "5ed30324-3d2f-40b8-bd37-b284b98590f4",
@@ -944,7 +944,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "man cave2.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         },
         {
             "id": "8e08d3b3-5851-413c-9e35-47eedf415fa5",
@@ -954,7 +954,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Marcy's int.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         },
         {
             "id": "ab7c2bb3-9868-4456-a061-be3f31ec02f0",
@@ -964,7 +964,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "marionette's house.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         },
         {
             "id": "68d64b78-2103-44de-9d3e-ec20f055750c",
@@ -974,7 +974,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "mother's room.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         },
         {
             "id": "d103c148-775e-439f-95d0-9c7f5d25bf6e",
@@ -984,7 +984,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "open folder.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         },
         {
             "id": "24f73b33-4d4f-4308-ae8e-f9162bd88318",
@@ -994,7 +994,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "Robin's Street.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         },
         {
             "id": "949a7d1e-4365-4764-8284-ada57333d27d",
@@ -1004,7 +1004,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "room.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         },
         {
             "id": "30d273a4-1773-489a-88d1-7fd8e6d8c1bf",
@@ -1014,7 +1014,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "rope running.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         },
         {
             "id": "0718d019-8572-4bf1-9c14-430c32b84080",
@@ -1024,7 +1024,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "sister's room.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         },
         {
             "id": "311ce60f-d05f-48fd-ba69-bc6cf1334919",
@@ -1034,7 +1034,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "sol bot copy.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         },
         {
             "id": "50a8769e-421a-4463-a8ad-de672111ed14",
@@ -1044,7 +1044,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "Sol top fitted.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         },
         {
             "id": "723b0c30-df32-4fd9-af1b-03fbe4dafdcb",
@@ -1054,7 +1054,17 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "space bar.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
+        },
+        {
+            "id": "17fa86b6-5bab-480b-9bd2-451ba42131a5",
+            "name": "space suit room",
+            "width": 20,
+            "height": 18,
+            "imageWidth": 160,
+            "imageHeight": 144,
+            "filename": "space suit room.png",
+            "_v": 1572427803564
         },
         {
             "id": "4a26d974-c332-405b-8f9d-17e840dbca85",
@@ -1064,7 +1074,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "space suits int.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         },
         {
             "id": "a8843ca2-9b6b-4304-8a86-37a96d2adffa",
@@ -1074,7 +1084,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "Spring's street.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         },
         {
             "id": "3a106740-5874-4081-8e31-611d853b10b7",
@@ -1084,7 +1094,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "star mart.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         },
         {
             "id": "6008e4ef-1f56-456c-928a-422b04b98e4e",
@@ -1094,7 +1104,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "the way to armstrong's.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         },
         {
             "id": "ddb77308-6dd1-4292-9208-9311dc581021",
@@ -1104,7 +1114,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Title Screen.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         },
         {
             "id": "5384b126-62f5-4bc6-b1e4-2059fb2e5a79",
@@ -1114,7 +1124,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Title Screen2.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         },
         {
             "id": "a3636bd7-927c-4db9-b1f5-9b260fa4dc01",
@@ -1124,7 +1134,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "yaya.png",
-            "_v": 1572007049666
+            "_v": 1572427803564
         }
     ],
     "spriteSheets": [
@@ -1134,7 +1144,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "0.png",
-            "_v": 1572007049676
+            "_v": 1572427803571
         },
         {
             "id": "37ececc8-e008-4658-99c0-623342f4f5b2",
@@ -1142,7 +1152,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "1 trigger.png",
-            "_v": 1572007049676
+            "_v": 1572427803571
         },
         {
             "id": "f7bf7ed5-4ea4-4ec8-be9e-72ab150f1817",
@@ -1150,7 +1160,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "1.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "c81119e3-cb3c-45ac-8d9c-5569250411d5",
@@ -1158,7 +1168,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "2.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "838895db-85d4-4665-bc53-fd0e4cde17af",
@@ -1166,7 +1176,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "3.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "05ad567d-5f82-4b83-8abd-1e69e899eaa8",
@@ -1174,7 +1184,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "4.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "06ad261e-6a1a-491a-8f21-e2bfd85a131e",
@@ -1182,7 +1192,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "5.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "dfe615e4-a27a-4d93-83b0-186197d24352",
@@ -1190,7 +1200,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "aaclosed.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "aaf49800-9950-4be3-8d36-e389c6fb1594",
@@ -1198,7 +1208,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "aaopen.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "31e407cb-3c43-435b-868e-9e275cfd70c4",
@@ -1206,7 +1216,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "bush 1.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "a2562e59-c5cd-44e4-9a11-b82b9d9c8a55",
@@ -1214,7 +1224,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "chacy.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "87fbb955-a4f4-4f8a-bf2f-5a48b67cdb2c",
@@ -1222,7 +1232,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "chaddy.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "d6b0758b-701a-4d5b-83b8-d15551d5e0dd",
@@ -1230,7 +1240,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "charissa.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "fa39d380-dcec-4eca-bc15-56ba31eeea8a",
@@ -1238,7 +1248,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "charissa's book.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "537dcdff-4af5-45dd-8ade-fbb8437e1a33",
@@ -1246,7 +1256,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "charlie.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "5a240db3-a063-4aba-8fc7-459db5212fe4",
@@ -1254,7 +1264,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "chickens.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "7facdaeb-cdec-44bc-8fc3-8ff76e5f3402",
@@ -1262,7 +1272,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "clicker.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "ede130e6-013a-42d1-a786-1aed3fd3cf32",
@@ -1270,7 +1280,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "duck.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "2e58bcf5-001f-4f1c-aabe-8ff2a9036e7d",
@@ -1278,7 +1288,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "earrings.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "4f79d206-aa11-445a-99e6-3d2ad024be2f",
@@ -1286,7 +1296,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "folder.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "28878e6b-390f-435e-a413-9f9a54789042",
@@ -1294,7 +1304,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "george.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "5c77cb32-8990-4ad9-be74-d013d3693b0b",
@@ -1302,7 +1312,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "george's son.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "e3c4edff-5166-4f7d-bb30-24f16e553dd5",
@@ -1310,7 +1320,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "jerry.png",
-            "_v": 1572007049677
+            "_v": 1572427803571
         },
         {
             "id": "fe789231-23d7-4f2b-9b1f-fc9cb6e4674e",
@@ -1318,7 +1328,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "key.png",
-            "_v": 1572007049678
+            "_v": 1572427803571
         },
         {
             "id": "96f5a8ba-b4f3-42f6-98d6-b308a31d486a",
@@ -1326,7 +1336,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "lamp.png",
-            "_v": 1572007049678
+            "_v": 1572427803571
         },
         {
             "id": "f8984ee4-e3bf-42fc-a759-c90e31535051",
@@ -1334,7 +1344,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "loony dave.png",
-            "_v": 1572007049678
+            "_v": 1572427803571
         },
         {
             "id": "dea9a545-866d-4980-b5e9-04dde48db1f7",
@@ -1342,7 +1352,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "lunian cat.png",
-            "_v": 1572007049678
+            "_v": 1572427803571
         },
         {
             "id": "4c1062fc-0034-4ec3-ac9b-7bb7122efbb4",
@@ -1350,7 +1360,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "lunian dog.png",
-            "_v": 1572007049678
+            "_v": 1572427803571
         },
         {
             "id": "74fe9bae-2bf0-4234-86fb-24c49cc90575",
@@ -1358,7 +1368,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "lunian duo horned.png",
-            "_v": 1572007049678
+            "_v": 1572427803571
         },
         {
             "id": "8e3e2c3f-4efa-42c7-ab65-89206ebcb7ed",
@@ -1366,7 +1376,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "lunian horned.png",
-            "_v": 1572007049678
+            "_v": 1572427803571
         },
         {
             "id": "2fa9523d-879e-404c-9735-581caa34a7e2",
@@ -1374,7 +1384,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "lunian rabbit.png",
-            "_v": 1572007049678
+            "_v": 1572427803571
         },
         {
             "id": "050601bb-6a55-42d2-8418-338db90a20ca",
@@ -1382,7 +1392,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "marionette.png",
-            "_v": 1572007049678
+            "_v": 1572427803571
         },
         {
             "id": "8379caf0-1adb-47e9-af1a-0d013fd29009",
@@ -1390,7 +1400,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "mauwze.png",
-            "_v": 1572007049678
+            "_v": 1572427803571
         },
         {
             "id": "410cd11c-766d-466c-840c-84aced27d7ba",
@@ -1398,7 +1408,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "Mew Moon.png",
-            "_v": 1572007049678
+            "_v": 1572427803571
         },
         {
             "id": "782bfa5d-9803-4856-ad20-bcf002238ddc",
@@ -1406,7 +1416,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "mommy.png",
-            "_v": 1572007049678
+            "_v": 1572427803571
         },
         {
             "id": "84f5da37-8f35-4054-89f5-dffce057a9c3",
@@ -1414,7 +1424,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "pigs.png",
-            "_v": 1572007049678
+            "_v": 1572427803571
         },
         {
             "id": "fa65a3d3-efb4-4eeb-a86f-9f32a429f0e1",
@@ -1422,7 +1432,7 @@
             "numFrames": 4,
             "type": "animated",
             "filename": "portal1.png",
-            "_v": 1572007049678
+            "_v": 1572427803571
         },
         {
             "id": "edbe0863-93b7-4cfc-a2f6-e5dfa19d11a0",
@@ -1430,7 +1440,7 @@
             "numFrames": 4,
             "type": "animated",
             "filename": "portal2.png",
-            "_v": 1572007049678
+            "_v": 1572427803571
         },
         {
             "id": "bd68484b-58c5-44c3-a205-ea5bc991a25b",
@@ -1438,7 +1448,7 @@
             "numFrames": 4,
             "type": "animated",
             "filename": "queen man.png",
-            "_v": 1572007049678
+            "_v": 1572427803571
         },
         {
             "id": "e766cdce-7ea3-41db-a558-b0c76eca25df",
@@ -1446,7 +1456,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "rock 2.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "851fb1cf-9704-4f83-8020-acdf7f087ddb",
@@ -1454,7 +1464,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "rock.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "eba79c05-89f3-46ef-bc5e-a36cf1809e61",
@@ -1462,7 +1472,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "shard.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "ea9624d2-fa48-4afd-aaf4-1bdb7fbce583",
@@ -1470,7 +1480,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "sign.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "35036c40-aaf1-4e00-9aeb-fc0f33e44a6f",
@@ -1478,7 +1488,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "sister bess.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "a55a8b02-394c-4e90-93ba-0ac96ca59465",
@@ -1486,7 +1496,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "Snow Fullbun.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "5a40e2df-e3da-4e45-9a08-07316df95880",
@@ -1494,7 +1504,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "squishie.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "f1f0459e-4b4d-48e6-862f-4a6116971dad",
@@ -1502,7 +1512,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "star!.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "e1fcf3d0-b10e-4b92-90c5-eaff9868cafe",
@@ -1510,7 +1520,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "star0.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "c75ee946-d740-4869-b172-d5c2421bb73e",
@@ -1518,7 +1528,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "star00.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "7d66458d-c209-4f0b-b6e9-b098fa8f0dc5",
@@ -1526,7 +1536,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "star1.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "9b0ef107-7a39-41f2-bf14-a861c7a80c99",
@@ -1534,7 +1544,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "star2.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "47c2bebc-901f-4c70-903d-4fb4f94c4cbd",
@@ -1542,7 +1552,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "star2a.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "66b8695b-294a-4677-90c7-9969ceb835c3",
@@ -1550,7 +1560,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "vindeside4.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "a51711e0-ed11-49b2-93ad-956502b28b16",
@@ -1558,7 +1568,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "vine 2.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "a3f913fb-9a8c-421b-9948-83b304551e44",
@@ -1566,7 +1576,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "vine 3.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "44a9d21f-f226-4591-b3e2-f08c42e2eeb1",
@@ -1574,7 +1584,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "vine cutter.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "e9f006a1-1275-4c43-a7cc-c960e842652e",
@@ -1582,7 +1592,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "vine1.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "dac9c64b-4bff-4c6f-89b4-6ad09a6691ea",
@@ -1590,7 +1600,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "vineside 2.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "54ee17f5-6346-4bef-a3d7-7a45e334c047",
@@ -1598,7 +1608,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "vineside 3.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         },
         {
             "id": "404687ac-fc0a-491a-be87-4fedf3330a23",
@@ -1606,7 +1616,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "vineside1.png",
-            "_v": 1572007049678
+            "_v": 1572427803572
         }
     ],
     "scenes": [
@@ -8705,8 +8715,8 @@
             "id": "f1de71af-4e78-4bfa-87fc-64e943c1f71d",
             "name": "3b george's room",
             "backgroundId": "00586e68-6bb6-4b8a-888b-f9eca361a12c",
-            "x": 785,
-            "y": 688,
+            "x": 793,
+            "y": 693,
             "width": 20,
             "height": 18,
             "actors": [],
@@ -11307,8 +11317,8 @@
             "id": "d79fd684-05e1-41d7-9376-f33b67815df7",
             "name": "Scene 31",
             "backgroundId": "40f48528-134e-4a35-b8e2-190cb6dd2df0",
-            "x": 1552,
-            "y": 1590,
+            "x": 1550,
+            "y": 1622,
             "width": 32,
             "height": 32,
             "actors": [
@@ -11897,8 +11907,8 @@
             "id": "e6191ee4-ba57-4602-834c-02db13326599",
             "name": "Scene 33",
             "backgroundId": "c8655ac9-8c38-425a-a6c2-2b5dc12deed2",
-            "x": 1217.6678035032094,
-            "y": 1822.178308553635,
+            "x": 1267.6678035032094,
+            "y": 1602.178308553635,
             "width": 32,
             "height": 32,
             "actors": [
@@ -13099,82 +13109,112 @@
                     "trigger": "walk",
                     "script": [
                         {
-                            "id": "1d38830b-8fc3-4a35-b5bd-6d786c76b4e3",
+                            "id": "fa6fdbe8-fa16-4336-b34f-1fec6972ca0e",
                             "command": "EVENT_IF_TRUE",
                             "args": {
-                                "variable": "143",
-                                "__collapse": false,
-                                "__collapseElse": false
+                                "variable": "144"
                             },
                             "true": [
                                 {
-                                    "id": "55b5083b-5ebc-45bb-a217-1dafedec4b6e",
-                                    "command": "EVENT_SET_TRUE",
-                                    "args": {
-                                        "variable": "146"
-                                    }
-                                },
-                                {
-                                    "id": "291a851a-9eab-4296-aa91-b8df5aaa134b",
+                                    "id": "61f1e735-b387-4286-9ea7-0af2e217633a",
                                     "command": "EVENT_SWITCH_SCENE",
                                     "args": {
-                                        "sceneId": "e860f309-c78b-4cf7-907c-6ee9065f2cff",
-                                        "x": 1,
+                                        "sceneId": "202206d2-28c0-4a85-9e7a-b34ef77ee47d",
+                                        "x": 3,
                                         "y": 1,
-                                        "direction": "up",
+                                        "direction": "",
                                         "fadeSpeed": "2"
                                     }
                                 },
                                 {
-                                    "id": "75963b54-965d-4840-8c8f-f681e6ab49d9",
+                                    "id": "7a4071a7-4131-4511-a717-21bbb7d36181",
                                     "command": "EVENT_END"
                                 }
                             ],
                             "false": [
                                 {
-                                    "id": "6631800f-e9bf-4c31-bd82-b5020b7e811e",
+                                    "id": "1d38830b-8fc3-4a35-b5bd-6d786c76b4e3",
                                     "command": "EVENT_IF_TRUE",
                                     "args": {
-                                        "variable": "146",
-                                        "__collapse": false
+                                        "variable": "143",
+                                        "__collapse": true,
+                                        "__collapseElse": true
                                     },
                                     "true": [
                                         {
-                                            "id": "37cbca65-a9c6-47ed-bef1-e8f7667a2686",
+                                            "id": "55b5083b-5ebc-45bb-a217-1dafedec4b6e",
+                                            "command": "EVENT_SET_TRUE",
+                                            "args": {
+                                                "variable": "146"
+                                            }
+                                        },
+                                        {
+                                            "id": "291a851a-9eab-4296-aa91-b8df5aaa134b",
                                             "command": "EVENT_SWITCH_SCENE",
                                             "args": {
-                                                "sceneId": "f4759d6e-d197-47d4-a729-917d21323903",
-                                                "x": 15,
-                                                "y": 29,
+                                                "sceneId": "e860f309-c78b-4cf7-907c-6ee9065f2cff",
+                                                "x": 1,
+                                                "y": 1,
                                                 "direction": "up",
                                                 "fadeSpeed": "2"
                                             }
                                         },
                                         {
-                                            "id": "0ef69794-a3ec-428c-81cf-ebc9b8e40a20",
+                                            "id": "75963b54-965d-4840-8c8f-f681e6ab49d9",
                                             "command": "EVENT_END"
                                         }
                                     ],
                                     "false": [
                                         {
-                                            "id": "0dc43033-037f-43bb-aa88-cf9e5927b515",
-                                            "command": "EVENT_SWITCH_SCENE",
+                                            "id": "6631800f-e9bf-4c31-bd82-b5020b7e811e",
+                                            "command": "EVENT_IF_TRUE",
                                             "args": {
-                                                "sceneId": "202206d2-28c0-4a85-9e7a-b34ef77ee47d",
-                                                "x": 1,
-                                                "y": 1,
-                                                "direction": "",
-                                                "fadeSpeed": "2"
-                                            }
+                                                "variable": "146",
+                                                "__collapse": false
+                                            },
+                                            "true": [
+                                                {
+                                                    "id": "37cbca65-a9c6-47ed-bef1-e8f7667a2686",
+                                                    "command": "EVENT_SWITCH_SCENE",
+                                                    "args": {
+                                                        "sceneId": "f4759d6e-d197-47d4-a729-917d21323903",
+                                                        "x": 15,
+                                                        "y": 29,
+                                                        "direction": "up",
+                                                        "fadeSpeed": "2"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "0ef69794-a3ec-428c-81cf-ebc9b8e40a20",
+                                                    "command": "EVENT_END"
+                                                }
+                                            ],
+                                            "false": [
+                                                {
+                                                    "id": "0dc43033-037f-43bb-aa88-cf9e5927b515",
+                                                    "command": "EVENT_SWITCH_SCENE",
+                                                    "args": {
+                                                        "sceneId": "202206d2-28c0-4a85-9e7a-b34ef77ee47d",
+                                                        "x": 1,
+                                                        "y": 1,
+                                                        "direction": "",
+                                                        "fadeSpeed": "2"
+                                                    }
+                                                },
+                                                {
+                                                    "id": "fc7064ba-71cd-4d00-856b-49f5314b7f2f",
+                                                    "command": "EVENT_END"
+                                                }
+                                            ]
                                         },
                                         {
-                                            "id": "fc7064ba-71cd-4d00-856b-49f5314b7f2f",
+                                            "id": "919b6eb8-12aa-4c80-b05b-d68ca4964cdf",
                                             "command": "EVENT_END"
                                         }
                                     ]
                                 },
                                 {
-                                    "id": "919b6eb8-12aa-4c80-b05b-d68ca4964cdf",
+                                    "id": "0faee255-72fb-4908-9231-7c07a0bea3c6",
                                     "command": "EVENT_END"
                                 }
                             ]
@@ -13831,8 +13871,8 @@
             "id": "e860f309-c78b-4cf7-907c-6ee9065f2cff",
             "name": "Scene 41",
             "backgroundId": "c7ab0cce-de6a-488c-8bc2-aae9083a3ae6",
-            "x": 906,
-            "y": 1890,
+            "x": 915,
+            "y": 1876,
             "width": 20,
             "height": 18,
             "actors": [],
@@ -17114,8 +17154,8 @@
             "id": "240d3e9f-50b1-4189-af50-f43a4fa6e934",
             "name": "Scene 57",
             "backgroundId": "4126ac51-773a-418a-b2d9-bea70c654555",
-            "x": 324,
-            "y": 3193.5,
+            "x": 320,
+            "y": 3209,
             "width": 32,
             "height": 25,
             "actors": [],
@@ -22684,7 +22724,7 @@
             "id": "f50428ab-a084-4591-9bba-2ba10fe7b1c6",
             "name": "template",
             "filename": "template.mod",
-            "_v": 1572007049683
+            "_v": 1572427803576
         }
     ]
 }
